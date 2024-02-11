@@ -1,2 +1,2 @@
 [build]
-  command = "python Camera Roli/app.py"
+  command = "python Camera Roll/app.py"
