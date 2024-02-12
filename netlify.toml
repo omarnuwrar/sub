@@ -1,2 +1,0 @@
-[build]
-  command = "python Camera Roll/app.py"
