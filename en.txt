@@ -3400,34 +3400,37 @@ The relative pronouns you can use in non-defining relative clauses are the same 
 
 
 
-ional information about the noun, but are not necessary to help you understand the sentence. There are commas before and after non-defining relative clauses.
-• Sami, who has never left the country, is going to England for his holiday. (The relative clause gives interesting information about Sami, but is not necessary for us to understand who Sami is.)
-• The Sunbeam Hotel, which is very close to the beach, is the best hotel in town. (The relative clause gives us more information about the hotel, but the sentence would make sense without it.)
-The relative pronouns you can use in non-defining relative clauses are the same as for defining relative clauses, except that you cannot use that.
-
-
-
 ---------------------- الصفحة 95 -------------------------
 
-نبذة عن الصفحة : الصفحة تحتوي على مقتطف من كتاب تعليمي. تعرض معلومات عن قواعد اللغة الإنجليزية، تحديداً حول الزمن المبني للمجهول والزمن المستقبلي. تظهر الجداول أمثلة وشرح لكيفية تكوين كل زمن مع أمثلة توضيحية.
+نبذة عن الصفحة : تظهر الصورة صفحة من كتاب تعليمي للغة الإنجليزية تحتوي على شرح قواعد لغوية خاصة بالأفعال المبنية للمجهول والمستقبل البسيط والمضارع المستمر للمستقبل. تحتوي الصفحة على جدولين يوضحان الشكل والاستخدام الخاص بكل قاعدة مع أمثلة توضيحية.
 
 النص المُستخرج من الصفحة : 
 Unit 6
-Passive form (WB page 99)
+
+- Passive form (WB page 99)
+
 Form
 The passive is formed with the verb to be + past participle.
 
-Form:
-Present simple passive | am/is/are + past participle | A statement is mailed to you every month.
-Past simple passive | was/were + past participle | The account was opened on 30 October.
-Future simple passive | will be + past participle | Your name and address will be printed on your cheques.
-Present continuous passive | am/is/are being + past participle | A new bank is being built in my neighbourhood.
-Past continuous passive | was/were being + past participle | Were your cheques being sent to the wrong address?
-Present perfect passive | have/has been + past participle | My cheque hasn’t been deposited yet.
-Past perfect passive | had been + past participle | Since my credit card had been stolen, I had to pay cash for my ticket.
+| Form                          | Example                                       |
+|-------------------------------|-----------------------------------------------|
+| Present simple passive        | am/is/are + past participle                   |
+|                               | A statement is mailed to you every month.    |
+| Past simple passive           | was/were + past participle                    |
+|                               | The account was opened on 30 October.         |
+| Future simple passive         | will be + past participle                     |
+|                               | Your name and address will be printed on your cheques. |
+| Present continuous passive    | am/is/are being + past participle             |
+|                               | A new bank is being built in my neighbourhood.|
+| Past continuous passive       | was/were being + past participle              |
+|                               | Were your cheques being sent to the wrong address? |
+| Present perfect passive       | have/has been + past participle               |
+|                               | My cheque hasn’t been deposited yet.          |
+| Past perfect passive          | had been + past participle                    |
+|                               | Since my credit card had been stolen, I had to pay cash for my ticket. |
 
 Use
-Use the passive form when you don’t know who is performing an action or you don’t think it's very important to say who it is.
+Use the passive form when you don’t know who is performing an action or you don’t think it’s very important to say who it is.
 • My cheque book was stolen yesterday. (The speaker doesn’t know who stole it.)
 • A fee is charged if your account balance gets too low. (We can guess that the bank charges the fee, so it isn’t very important to mention this in the sentence.)
 
@@ -3435,26 +3438,37 @@ Use the passive form with by if you want to focus on the action, but still want 
 • This bill was paid last week by my father.
 
 Unit 7
-Future simple (CB page 76)
+
+- Future simple (CB page 76)
+
 Form
 
-Form:
-Affirmative | will + infinitive | I will have a lot of work to do for this class.
-Negative | will + not (won’t) + infinitive | They won’t finish their project on time.
-Question | will + subject + infinitive | Will you see Kamal in class?
+| Form        | Example                                       |
+|-------------|-----------------------------------------------|
+| Affirmative | will + infinitive                             |
+|             | I will have a lot of work to do for this class. |
+| Negative    | will + not (won’t) + infinitive               |
+|             | They won’t finish their project on time.      |
+| Question    | will + subject + infinitive                   |
+|             | Will you see Kamal in class?                  |
 
 Use
 Use the future simple to give opinions, make predictions or express hopes about the future, and to make promises.
 • I won’t get a good mark on this exam. It was too difficult.
 • I will help you with your application.
 
-Present continuous for future (CB page 76)
+- Present continuous for future (CB page 76)
+
 Form
 
-Form:
-Affirmative | am/is/are + present participle | Qadir is meeting me in front of the library.
-Negative | am not/isn’t (isn’t)/are not (aren’t) + present participle | He isn’t going home for the holidays.
-Question | am/is/are + subject + present participle | Are you driving to school this morning?
+| Form        | Example                                       |
+|-------------|-----------------------------------------------|
+| Affirmative | am/is/are + present participle                |
+|             | Qadir is meeting me in front of the library.  |
+| Negative    | am not/isn’t (isn’t)/are not (aren’t) + present participle |
+|             | He isn’t going home for the holidays.         |
+| Question    | am/is/are + subject + present participle      |
+|             | Are you driving to school this morning?       |
 
 Use
 Use the present continuous to talk about fixed future plans. The present continuous is often used with a time or date.
@@ -3464,153 +3478,159 @@ Use the present continuous to talk about fixed future plans. The present continu
 
 ---------------------- الصفحة 96 -------------------------
 
-نبذة عن الصفحة : الصورة عبارة عن صفحة من كتاب تعليمي للغة الإنجليزية، تظهر فيها معلومات عن الأزمنة المستقبلية واستخداماتها، بالإضافة إلى بعض الأمثلة على البادئات واللواحق في اللغة الإنجليزية. يتضمن المحتوى جداول وشروحات نصية.
+نبذة عن الصفحة : الصورة تبدو كصفحة من كتاب تعليمي للغة الإنجليزية تحتوي على قواعد نحوية تتعلق بالمستقبل والماضي والوحدات التعليمية. الصفحة تحتوي على جداول توضح الأشكال المختلفة للأفعال واستخداماتها، بالإضافة إلى نصوص تعليمية تشرح القواعد مع أمثلة توضيحية. يظهر في أسفل الصفحة رقم الصفحة.
 
 النص المُستخرج من الصفحة : 
 • Going to for future (CB page 76)
 Form
-Affirmative: am/is/are + going to + infinitive
-Example: I am going to work harder next year.
-Negative: am not/is not (isn't)/are not (aren't) + going to + infinitive
-Example: We aren't going to stay up late tonight.
-Question: am/is/are + subject + going to + infinitive
-Example: Is Ali going to apply to the programme?
-Use: Use going to to talk about an intention or a plan. Jafar is going to learn a new language to improve his job prospects.
+Form         Example
+Affirmative  I am going to work harder next year.
+am/is/are + going to + infinitive
+Negative     We aren’t going to stay up late tonight.
+am not/is not (isn’t)/are not (aren’t) + going to + infinitive
+Question     Is Ali going to apply to the programme?
+am/is/are + subject + going to + infinitive
+Use
+Use going to to talk about an intention or a plan.
+Jafar is going to learn a new language to improve his job prospects.
 
 • Future continuous (CB page 76)
 Form
-Affirmative: will + be + present participle
-Example: Malak will be going to university in the autumn.
-Negative: will not (won't) + be + present participle
-Example: I won't be staying at a hotel because I can stay with friends.
-Question: will + subject + be + present participle
-Example: Will your friends be arriving tonight or tomorrow?
-Use: Use the future continuous to emphasize the ongoing nature of the action over a period of time. The period of time can be anything from an hour to a year or more.
-• Between 10 and 11 tomorrow I'll be writing a report.
+Form         Example
+Affirmative  Malak will be going to university in the autumn.
+will + be + present participle
+Negative     I won’t be staying at a hotel because I can stay with friends.
+will not (won’t) + be + present participle
+Question     Will your friends be arriving tonight or tomorrow?
+will + subject + be + present participle
+Use
+Use the future continuous to emphasize the ongoing nature of the action over a period of time. The period of time can be anything from an hour to a year or more.
+• Between 10 and 11 tomorrow I’ll be writing a report.
 • Next year I will be studying English and Japanese.
 
 • Present simple for future (CB page 76)
 Use the present simple to talk about future events that are on a schedule.
-• My classes start tomorrow at nine o'clock.
+• My classes start tomorrow at nine o’clock.
 
 • Future in the past (CB page 78)
 When talking about the past, we sometimes want to say how the future looked at the time. To do this, we use the past form of the appropriate future tense.
-
-Future form | Future in the past form
-will + infinitive | would + infinitive
-am/is/are + present participle | was/were + present participle
-am/is/are + going to + infinitive | was/were + going to + infinitive
-will + be + present participle | would + be + present participle
-present simple | past simple
-
-Use:
+Future form                 Future in the past form
+will + infinitive           would + infinitive
+am/is/are + present       was/were + present
+participle                  participle
+am/is/are + going to +    was/were + going to +
+infinitive                  infinitive
+will + be + present       would + be + present
+participle                  participle
+present simple             past simple
+Use
 • I enrolled in a class on web design because I thought I would learn a lot.
-• She couldn't come to the party because she was taking an exam the next day.
+• She couldn’t come to the party because she was taking an exam the next day.
 • I decided I was going to study languages when I was in 6th Preparatory.
-• I knew Rashida would be sleeping late that morning, so I didn't call her until after noon.
-• I went to the library at nine o'clock, but when I arrived I saw it didn't open until ten.
+• I knew Rashida would be sleeping late that morning, so I didn’t call her until after noon.
+• I went to the library at nine o’clock, but when I arrived I saw it didn’t open until ten.
 
 Unit 8
 • Prefixes and suffixes (WB page 135)
 Prefixes and suffixes are letters that we add to the beginnings and ends of words to change their meanings. Here are some examples of common prefixes and suffixes:
-
-Prefix | Meaning | Example
-anti | against | antipollution
-bi | two | bicycle
-co | together | co-worker
-de | reduce, remove, undo | defrost
-eco | environment | ecosystem
-inter | among, between | international
-micro | very small | microscope
-re | again | reread
-tele | over a distance | television
-trans | across | transcontinental
-
-96
-English for Libya PB 12_BOOK SCIENCE.indd 96 25/06/2020 11:22
+Prefix   Meaning        Example
+anti     against        antipollution
+bi       two            bicycle
+co       together       co-worker
+de       reduce, remove, undo defrost
+eco      environment    ecosystem
+inter    among, between international
+micro    very small     microscope
+re       again          reread
+tele     over a distance television
+trans    across         transcontinental
 
 
 
 ---------------------- الصفحة 97 -------------------------
 
-نبذة عن الصفحة : تظهر الصفحة من كتاب تعليمي تتعلق باللغة الإنجليزية وتتناول موضوع اللواحق (Suffixes) مع شرح لمعانيها وأمثلة توضيحية. تحتوي الصفحة أيضًا على ملاحظة إضافية حول بعض اللواحق.
+نبذة عن الصفحة : تظهر الصورة صفحة من كتاب تعليمي باللغة الإنجليزية، تحتوي على جدول يشرح بعض اللواحق (Suffixes) مع معانيها وأمثلة عليها. يوجد أيضًا ملاحظة توضح استخدامات إضافية لبعض اللواحق.
 
 النص المُستخرج من الصفحة : 
-Suffix | Meaning | Example
-able | capable of | renewable
-al | related to | environmental
-ation | action, process | celebration
-en | made of | wooden
-ful | full of | harmful
-ist | person who does | scientist
-less | without | heartless
-ly | in this way | quietly
-ology | science of | geology
-ship | skill | craftsmanship
+Suffix  Meaning                Example
+able    capable of             renewable
+al      related to             environmental
+ation   action, process        celebration
+en      made of                wooden
+ful     full of                harmful
+ist     person who does        scientist
+less    without                heartless
+ly      in this way            quietly
+ology   science of             geology
+ship    skill                  craftsmanship
 
 Note
 There are other meanings for some suffixes. For example, -al can also mean 'the act or process of' as a noun suffix (e.g., refusal); -ly is also found in common words like family, July, only, early, fly.
+
+English for Libya P8 12_BOOK SCIENCE.indb 97              2506/2020  11:22
 
 
 
 ---------------------- الصفحة 98 -------------------------
 
-نبذة عن الصفحة : تظهر الصورة قائمة تحقق للعمل الكتابي. تحتوي على خطوات وإرشادات لتخطيط الكتابة ومراجعتها وتحريرها. العنوان "Checklist for Written Work" يظهر بشكل بارز في الأعلى. تتضمن القائمة نصائح مثل تخطيط الأفكار، التحقق من المفردات، استخدام نصوص نموذجية، وكتابة المسودة الأولى. كما تحتوي على أقسام مخصصة للتخطيط والكتابة والمراجعة والتحرير. التصميم بسيط ومنظم مع مربعات اختيار بجانب كل خطوة.
+نبذة عن الصفحة : الصورة عبارة عن قائمة مرجعية للعمل الكتابي. تحتوي الصفحة على نصوص توجيهية لتخطيط وكتابة ومراجعة العمل الكتابي، مع مربعات اختيار بجانب كل بند.
 
 النص المُستخرج من الصفحة : 
 Checklist for Written Work
 
 Planning your work
-□ Read the question carefully. Underline the important parts. Do you understand it? If it is not clear, then ask your teacher.
-□ Brainstorm as many ideas as you can of what you are going to write about. Write them down as a list or mind map.
-□ Look up any vocabulary that you are unsure of.
-□ Select the ideas you want to use and delete any that are not relevant. You don’t have to use everything.
-□ Put your ideas into a logical order and group ideas that go together in sections.
-□ If you can, find a model text and look at the style and layout. Are there any phrases or vocabulary that you can adapt for your own work? (Be careful not to copy chunks of the model text without changing it, though.)
-□ Think about who you are writing for and decide on the style and layout. For example, if you are writing a letter to a friend, the style will be different to a formal letter and the layout will be different to a story.
+☐ Read the question carefully. Underline the important parts. Do you understand it? If it is not clear, then ask your teacher.
+☐ Brainstorm as many ideas as you can of what you are going to write about. Write them down as a list or mind map.
+☐ Look up any vocabulary that you are unsure of.
+☐ Select the ideas you want to use and delete any that are not relevant. You don’t have to use everything.
+☐ Put your ideas into a logical order and group ideas that go together in sections.
+☐ If you can, find a model text and look at the style and layout. Are there any phrases or vocabulary that you can adapt for your own work? (Be careful not to copy chunks of the model text without changing it, though.)
+☐ Think about who you are writing for and decide on the style and layout. For example, if you are writing a letter to a friend, the style will be different to a formal letter and the layout will be different to a story.
 
 Writing and revising your work
-□ Use the ideas from your planning to write the first draft. Don’t worry too much about accuracy or choosing the right words.
-□ Remember to start a new paragraph every time you move on to a new idea or topic.
-□ Read through your first draft and check that you have answered the question correctly.
-□ Decide if you want to delete, change or add any more ideas.
-□ Decide whether you want to change the paragraphing or the order of the ideas.
-□ Check that you have linked your ideas using connecting words and phrases (e.g., first, next, then, etc.).
-□ Write a second draft more carefully and slowly. Make sure your writing is clear.
+☐ Use the ideas from your planning to write the first draft. Don’t worry too much about accuracy or choosing the right words.
+☐ Remember to start a new paragraph every time you move on to a new idea or topic.
+☐ Read through your first draft and check that you have answered the question correctly.
+☐ Decide if you want to delete, change or add any more ideas.
+☐ Decide whether you want to change the paragraphing or the order of the ideas.
+☐ Check that you have linked your ideas using connecting words and phrases (e.g., first, next, then, etc.).
+☐ Write a second draft more carefully and slowly. Make sure your writing is clear.
 
 Editing your work
-□ Read through your work. Check you have answered the question correctly, every sentence is clear, the grammar is correct, you have used suitable vocabulary and linking words and that the spelling is correct. (Check with a dictionary.)
-□ Show your work to your family or a friend and see if they can help you edit it.
-□ Editing tip: You could try reading the text in reverse order, starting with the final sentence and working backwards to the first sentence. This will stop you being distracted by the content and allow you to focus on technical details.
+☐ Read through your work. Check you have answered the question correctly, every sentence is clear, the grammar is correct, you have used suitable vocabulary and linking words and that the spelling is correct. (Check with a dictionary.)
+☐ Show your work to your family or a friend and see if they can help you edit it.
+☐ Editing tip: You could try reading the text in reverse order, starting with the final sentence and working backwards to the first sentence. This will stop you being distracted by the content and allow you to focus on technical details.
 
 98 Checklist
-
-English for Libya PB 12_BOOK SCIENCE.indb 98 25/06/2020 11:22
+English for Libya PB 12_BOOK SCIENCE.indb 98
+25/06/2020 11:22
 
 
 
 ---------------------- الصفحة 99 -------------------------
 
-نبذة عن الصفحة : الصورة عبارة عن صفحة من كتاب تحتوي على نصوص تعليمية وتدريبات استماع. يظهر في الجزء العلوي عنوان "Transcript" مع تفاصيل عن الدروس والوحدات. تحتوي الصفحة على نصوص حوارية مصاحبة لتسجيلات صوتية لتدريب الطلاب على فهم اللغة الإنجليزية، مع تعليمات للطلاب لاختيار الكلمات الصحيحة وإنشاء الأسئلة.
+نبذة عن الصفحة : الصورة عبارة عن صفحة من كتاب تعليمي مخصصة لتدريبات الاستماع والفهم. تحتوي على نصوص لحوارات وأنشطة تعليمية لاستكمال الجمل واختيار الإجابات الصحيحة. تظهر الصفحة بشكل منظم بأقسام مخصصة لكل وحدة ودروسها، مع استخدام نمط نصي واضح وموجه للأغراض التعليمية.
 
 النص المُستخرج من الصفحة : 
 Transcript
 
 Unit 1
+
 Lesson 1
+
 🎧 Track 1
 
 Listen and choose the correct word to end each sentence. Write the numbers 1 to 6 in the correct boxes.
 
 1
 Woman: What did the doctor do?
-Girl: She told me to open my mouth and say ‘Aah’. Then she looked at my throat.
+Girl: She told me to open my mouth and say 'Aah'. Then she looked at my throat.
 
 2
 Boy: One minute I feel hot and the next minute I feel cold. I think I have a temperature.
 
 3
-Girl: I spilt boiling water on my foot. It’s very badly burnt.
+Girl: I spilt boiling water on my foot. It's very badly burnt.
 
 4
 Boy: What does the X-ray show, doctor?
@@ -3620,36 +3640,38 @@ Female doctor: Your wrist is fractured.
 Girl: I was running in high heels and my foot went over. Now my ankle is really swollen.
 
 6
-Mother: Why aren’t you eating your lunch, darling?
-Small boy: I can’t. My throat hurts too much when I swallow.
+Mother: Why aren't you eating your lunch, darling?
+Small boy: I can't. My throat hurts too much when I swallow.
 
 Lesson 2
+
 🎧 Track 2
 
 Listen and check your answers.
 
-Adil: I’ve hurt my wrist.
+Adil: I've hurt my wrist.
 Nurse: Sit down, please. I need to take your details.
 Nurse: The doctor will see you very soon, Adil.
 Doctor: How did you do it?
 Adil: I was ice skating and I fell over.
-Adil: Do you think it’s broken?
+Adil: Do you think it's broken?
 Doctor: Probably not. But you need to have an X-ray to make sure.
 
 Adil: Is it broken?
-Doctor: I’m afraid so. It’s fractured here.
-Doctor: I’m going to put your wrist in plaster.
+Doctor: I'm afraid so. It's fractured here.
+Doctor: I'm going to put your wrist in plaster.
 Adil: How long will I have to keep it on?
 Doctor: Six weeks.
 
 Lesson 4
+
 🎧 Track 3
 
 Listen and check your answers.
 
-Man: Every year, around 114,000 smokers in the United Kingdom die from their habit. That’s about 300 people every day.
-Woman: Smoking in Britain is highest in the 20–24 age group.
-Man: It is illegal to sell cigarettes to children under the age of 18. Yet 20% of Britain’s 15 year olds are regular smokers.
+Man: Every year, around 114,000 smokers in the United Kingdom die from their habit. That's about 300 people every day.
+Woman: Smoking in Britain is highest in the 20-24 age group.
+Man: It is illegal to sell cigarettes to children under the age of 18. Yet 20% of Britain's 15 year olds are regular smokers.
 Woman: More than 80% of smokers take up the habit when they are teenagers.
 Man: People who smoke a packet of cigarettes a day die on average 7 years earlier than people who have never smoked.
 Woman: Every day in the United Kingdom, approximately 450 young people under the age of 18 start smoking.
@@ -3657,31 +3679,41 @@ Man: The British Government currently spends around £30 million a year on anti-
 Woman: More people in Britain die from smoking than from road accidents, poisoning and AIDS.
 
 Unit 2
+
 Lesson 1
+
 🎧 Track 4
 
 Now listen to two people talking.
 
-Speaker 1: I used to drive too fast. I thought speeding was fun and I didn’t realize how dangerous it was. Then one day I drove by a police car. The speed
+Speaker 1: I used to drive too fast. I thought speeding was fun and I didn't realize how dangerous it was. Then one day I drove by a police car. The speed
+
+Transcript 99
+
+English for Libya PB 12_BOOK SCIENCE.indb 99
+25/06/2020 11:22
 
 
 
 ---------------------- الصفحة 100 -------------------------
 
-نبذة عن الصفحة : الصورة هي صفحة من كتاب تعليمي للغة الإنجليزية تتضمن نصوصاً حوارية وأسئلة وأجوبة حول موضوعات تتعلق بالشرطة والأمان. تحتوي الصفحة على دروس مرقمة مع تعليمات استماع وتحليل.
+نبذة عن الصفحة : الصورة عبارة عن صفحة من كتاب تعليمي تحتوي على نصوص تعليمية ومحادثات تتعلق بالسلامة والأمن والشرطة. تُظهر الصفحة أيضًا تخطيطًا منظمًا يتضمن أرقام الدروس والمقاطع الصوتية.
 
 النص المُستخرج من الصفحة : 
 limit was 110, but I was driving much faster. The police officers had a radar gun, and they knew I was driving too fast. They pulled me over and gave me a speeding ticket. I was about to leave when one of the officers gave me a piece of paper. It was a photo from a newspaper that showed a five-car crash. It was terrible. The police officer told me it happened because someone was speeding. I realized that by driving too fast I could get hurt and hurt other people, too. So I decided never to speed again. If I want to go fast, I can go on a roller coaster!
+
 Speaker 2: You can get a lot of information from a crime scene. Footprints can tell you what type of shoes a thief was wearing, how big his feet are, and even how tall he is. Sometimes we find fingerprints. A person can leave fingerprints if his hands are dirty. Then the fingerprints are easy to find. But people leave fingerprints even when their hands are clean. We can see them only after putting a special powder on them. Matching fingerprints used to be difficult. Now it’s much easier because computers can do a lot of the work.
 
 Lesson 2
 🎧 Track 5
 Listen and answer the questions.
+
 Question: Is being a policeman dangerous?
 Answer: Sometimes. It can be dangerous when you have to arrest somebody or stop a fight. But it isn’t dangerous all the time. When you are trying to find drivers who are speeding it can even be a bit boring, because you spend a lot of time waiting. One of the most important qualities a policeman must have is patience.
 
 Question: Do you have to work at night?
 Answer: There are always officers at the station to help people at any time of the day or night. But we don’t have to work every night. We usually take turns so we can spend some time at home with our family and friends.
+
 Question: What do you like best about being a policeman?
 Answer: Well, I like solving crimes. It can be very interesting. Sometimes it’s a bit like solving a puzzle. I also like the feeling that I’m helping people. If people don’t obey the law, others can get hurt. So when I arrest a criminal or stop a driver from speeding, I know that I’m making our city a better place to live.
 
@@ -3709,137 +3741,129 @@ Security guard: Good morning, sir. Would you put your bag on the conveyor belt, 
 
 ---------------------- الصفحة 101 -------------------------
 
-نبذة عن الصفحة : تظهر الصورة نصًا مطبوعًا، يبدو أنه جزء من كتاب تعليمي أو كتيب. يحتوي على حوارات باللغة الإنجليزية تتعلق بإجراءات المطار والجمارك، ويشتمل على نصوص توجيهية وتعليمية. الصورة تتضمن أيضًا تعليمات للاستماع إلى محادثة وإكمال الملاحظات، مما يشير إلى أن الصورة جزء من درس تعليمي.
+نبذة عن الصفحة : الصورة تحتوي على نصوص وهي جزء من كتاب أو مادة تعليمية تظهر على صفحة مطبوعة. النصوص تتضمن حوارات متعددة متعلقة بالمطار والإجراءات الأمنية، بالإضافة إلى درس يحتوي على تعليمات بالاستماع إلى محادثة وإكمال الملاحظات.
 
 النص المُستخرج من الصفحة : 
-Malek: Oh. Of course. What is that machine for?
-Security guard: It X-rays your bag. That way we can make sure you're not carrying anything dangerous.
-Malek: But I'm not!
-Security guard: I'm sure you're not. But we have to check everybody's bag. That's the rule. Could you empty your pockets, please?
-Malek: Uh, sure.
-Security guard: Now please walk through the metal detector.
-[beeping noise]
-Security guard: Is there anything left in your pockets?
-Malek: Oh, yes. My keys. Sorry!
-Security guard: That's all right. Just put them in the tray and walk through again. Thank you. Have a good flight.
-
-Conversation 3
-Father: Shall we get some magazines before boarding?
-Malek: That's a good idea. Let's get some drinks, too.
-Mother: I'll stay here with the bags if you want. Can you get me an orange soda?
-Father: Of course.
-Loudspeaker: Would the owner of a red nylon bag with green straps please come and get it immediately? Reminder to all passengers: please do not leave your baggage unattended. Unattended baggage will be disposed of by security staff.
-Malek: What does that mean?
-Father: It means you should always have your baggage with you. If you don't, someone from security might think it has something dangerous in it and take it away.
-Malek: Oh, no!
-Father: What's the matter?
-Malek: I think that's my bag!
-
-Conversation 4
-Passport agent: May I see your passport, please?
-Father: Certainly.
-Passport agent: Are you travelling alone?
-Father: No, with my wife and my son.
-Passport agent: Could I have their passports?
-Father: Here you are.
-Passport agent: Are you travelling for business or pleasure?
-Father: For pleasure.
-Passport agent: Where will you be staying?
-Father: With my brother, in Tripoli.
-Passport agent: Thank you. Enjoy your visit.
-
-Conversation 5
-Customs official: Good morning. Do you have anything to declare?
-Malek: Well, I've brought some gifts for my aunt and uncle.
-Customs official: What have you brought them?
-Malek: A book for my uncle and some chocolates for my aunt.
-Customs official: Are you carrying any cigarettes, plants or animals?
-Malek: No, I'm not.
-Customs official: Which bag is yours, please, sir?
-Malek: The red one.
-Customs official: Could you open it, please?
-Malek: Yes, of course.
-[zipping sound]
-Customs official: Well, that's fine, then. Have a pleasant stay in Tripoli.
-Malek: Thank you.
-
-Lesson 4
-🎧 Track 7
-Listen to the conversation and complete the notes.
-
-Samir: Could I speak to Mr Hazem?
-Secretary: May I ask who's calling?
-Samir: This is Samir Esam.
-Secretary: Just a moment, please.
-Mr Hazem: Hello.
-Samir: Good morning. Is that Mr Hazem?
-Mr Hazem: Yes, speaking.
-Samir: I'm calling about your advert in yesterday's paper.
-
-Transcript 101
+Malek: Oh. Of course. What is that machine for?  
+Security guard: It X-rays your bag. That way we can make sure you’re not carrying anything dangerous.  
+Malek: But I’m not!  
+Security guard: I’m sure you’re not. But we have to check everybody’s bag. That’s the rule. Could you empty your pockets, please?  
+Malek: Uh, sure.  
+Security guard: Now please walk through the metal detector. [beeping noise]  
+Security guard: Is there anything left in your pockets?  
+Malek: Oh, yes. My keys. Sorry!  
+Security guard: That’s all right. Just put them in the tray and walk through again. Thank you. Have a good flight.  
+Conversation 3  
+Father: Shall we get some magazines before boarding?  
+Malek: That’s a good idea. Let’s get some drinks, too.  
+Mother: I’ll stay here with the bags if you want. Can you get me an orange soda?  
+Father: Of course.  
+Loudspeaker voice: Would the owner of a red nylon bag with green straps please come and get it immediately? Reminder to all passengers: please do not leave your baggage unattended. Unattended baggage will be disposed of by security staff.  
+Malek: What does that mean?  
+Father: It means you should always have your baggage with you. If you don’t, someone from security might think it has something dangerous in it and take it away.  
+Malek: Oh, no!  
+Father: What’s the matter?  
+Malek: I think that’s my bag!  
+Conversation 4  
+Passport agent: May I see your passport, please?  
+Father: Certainly.  
+Passport agent: Are you travelling alone?  
+Father: No, with my wife and my son.  
+Passport agent: Could I have their passports?  
+Father: Here you are.  
+Passport agent: Are you travelling for business or pleasure?  
+Father: For pleasure.  
+Passport agent: Where will you be staying?  
+Father: With my brother, in Tripoli.  
+Passport agent: Thank you. Enjoy your visit.  
+Conversation 5  
+Customs official: Good morning. Do you have anything to declare?  
+Malek: Well, I’ve brought some gifts for my aunt and uncle.  
+Customs official: What have you brought them?  
+Malek: A book for my uncle and some chocolates for my aunt.  
+Customs official: Are you carrying any cigarettes, plants or animals?  
+Malek: No, I’m not.  
+Customs official: Which bag is yours, please, sir?  
+Malek: The red one.  
+Customs official: Could you open it, please?  
+Malek: Yes, of course. [zipping sound]  
+Customs official: Well, that’s fine, then. Have a pleasant stay in Tripoli.  
+Malek: Thank you.  
+Lesson 4  
+Track 7  
+Listen to the conversation and complete the notes.  
+Samir: Could I speak to Mr Hazem?  
+Secretary: May I ask who’s calling?  
+Samir: This is Samir Esam.  
+Secretary: Just a moment, please.  
+Mr Hazem: Hello.  
+Samir: Good morning. Is that Mr Hazem?  
+Mr Hazem: Yes, speaking.  
+Samir: I’m calling about your advert in yesterday’s paper.  
 
 
 
 ---------------------- الصفحة 102 -------------------------
 
-نبذة عن الصفحة : الصفحة تحتوي على نص حواري وتعليمات من كتاب تعليمي في اللغة الإنجليزية. النص يتضمن حواراً بين شخصيتين حول وظيفة الحراسة الأمنية، بالإضافة إلى جزء من درس يتضمن محادثات متعددة حول المهن المختلفة. الصفحة تحتوي على عناصر نصية توضيحية مثل عناوين الدروس والأمثلة الصوتية.
+نبذة عن الصفحة : تظهر الصفحة على أنها جزء من كتاب تعليمي أو مادة دراسية. تحتوي على نصوص حوارية باللغة الإنجليزية، ربما تكون جزءًا من درس للغة الإنجليزية. يظهر النص على شكل حوار بين شخصين، بالإضافة إلى تعليمات وتمارين للطلاب. يتم تقسيم الصفحة إلى وحدات ودروس مع ترقيم ومساحة مخصصة للتفريغ الصوتي.
 
 النص المُستخرج من الصفحة : 
 Mr Hazem: Very good. Shall I tell you a bit about the job?
 Samir: Yes, please.
 Mr Hazem: We need someone who is very reliable and can come to work on time every day. Work starts at 6 a.m. You may need to work some weekends, but not at night.
-Samir: That's fine. I like getting up early.
-Mr Hazem: Good. Our security guards also need to be very fit. There are security cameras in the building, but you'll have to walk around the building every hour, and it can be a bit tiring. When you're not walking around the building, you'll have to watch television screens that show what is happening in different areas.
+Samir: That’s fine. I like getting up early.
+Mr Hazem: Good. Our security guards also need to be very fit. There are security cameras in the building, but you’ll have to walk around the building every hour, and it can be a bit tiring. When you’re not walking around the building, you’ll have to watch television screens that show what is happening in different areas.
 Samir: Will I have to arrest people?
-Mr Hazem: No! If you see anything unusual, you'll call the police.
+Mr Hazem: No! If you see anything unusual, you’ll call the police.
 Samir: Oh, good.
 Mr Hazem: You also must be very friendly and like talking to people, especially if you work in a mall or an office building. A lot of people go to those buildings, and many of them will ask for information or directions.
-Samir: That's fine. I enjoy talking to people.
+Samir: That’s fine. I enjoy talking to people.
 Mr Hazem: Then you should enjoy the job. One more thing: you need to be computer literate for this job because you need to write reports at the end of every day. Can you use a computer?
-Samir: Yes, my father's got a computer at home.
-Mr Hazem: Well then, you shouldn't have any difficulty using our computers. All right then, would you like to come in for an appointment?
+Samir: Yes, my father’s got a computer at home.
+Mr Hazem: Well then, you shouldn’t have any difficulty using our computers. All right then, would you like to come in for an appointment?
 Samir: Yes, I would. What is a good time?
 Mr Hazem: How about tomorrow at 10.00?
-Samir: That's fine.
+Samir: That’s fine.
 Mr Hazem: Do you have an email address?
 Samir: Yes, I do.
-Mr Hazem: Good, I'll send you the directions by email. They're very clear. You shouldn't have any trouble finding us.
+Mr Hazem: Good, I’ll send you the directions by email. They’re very clear. You shouldn’t have any trouble finding us.
 
 Unit 3
 Lesson 1
-🎧 Track 8
+Track 8
 Listen and match.
-
-Zaid: Hello. I'm Zaid. I'm the manager of the Sheraton Hotel in Hurghada, Egypt. I love my job because it's so varied.
-Nada: My name's Nada. I'm a presenter on CBC television. I really enjoy my work, but it can be quite stressful sometimes.
-Bilal: I'm Bilal. I'm a pilot with Turkish Airlines. My favourite route is Istanbul – Bangkok. In my opinion, being a pilot is the most satisfying job in the world.
-Faten: My name's Faten. I'm a computer programmer. I work for a big company and I'm quite well paid.
+Zaid: Hello. I’m Zaid. I’m the manager of the Sheraton Hotel in Hurghada, Egypt. I love my job because it’s so varied.
+Nada: My name’s Nada. I’m a presenter on CBC television. I really enjoy my work, but it can be quite stressful sometimes.
+Bilal: I’m Bilal. I’m a pilot with Turkish Airlines. My favourite route is Istanbul – Bangkok. In my opinion, being a pilot is the most satisfying job in the world.
+Faten: My name’s Faten. I’m a computer programmer. I work for a big company and I’m quite well paid.
 
 Lesson 2
-🎧 Track 9
+Track 9
 Listen and check your answers.
-
 Adviser: What would you like to do when you finish studying?
-Student: I'm not sure yet. But I'm very interested in ecology and the environment.
-Adviser: If you're good at science and geography, there are lots of jobs to choose from.
-Student: I love them both. They're my favourite subjects.
-Adviser: Well, how about a career in water technology? That's really important in this country.
+Student: I’m not sure yet. But I’m very interested in ecology and the environment.
+Adviser: If you’re good at science and geography, there are lots of jobs to choose from.
+Student: I love them both. They’re my favourite subjects.
+Adviser: Well, how about a career in water technology? That’s really important in this country.
 Student: What exactly does water technology involve?
 Adviser: If you work in water technology, you look for ways of conserving water and purifying it.
-Student: Yes, I'd like to work in the water industry. Water conservation and purification are really important in this country. What kind of qualifications do I need?
+Student: Yes, I’d like to work in the water industry. Water conservation and purification are really important in this country. What kind of qualifications do I need?
 Adviser: First of all, you need to get a degree. You could choose from
 
 
 
 ---------------------- الصفحة 103 -------------------------
 
-نبذة عن الصفحة : تحتوي الصورة على صفحة من كتاب تعليمي، يبدو أنه يحتوي على نصوص تعليمية وأقسام دروس مع تمارين استماع وقراءة. تتضمن الصفحة نصوصًا محادثات بين شخصيات خيالية، ونصوصًا حول تجارب الحياة وخيارات مهنية، بالإضافة إلى إعلان عن تعلم اللغة الإنجليزية في المملكة المتحدة.
+نبذة عن الصفحة : تبدو الصورة كصفحة من كتاب دراسي تحتوي على نصوص تعليمية وتمارين استماع وقراءة. تتضمن الصفحة مقابلات حوارية ومعلومات تعليمية حول اختيار المهن وتعلم الإنجليزية في الخارج. تحتوي على تنسيق نصي منظم مع تقسيمات للدرس والمقاطع الصوتية.
 
 النص المُستخرج من الصفحة : 
-Lesson 3
-🅗 Track 10
-Listen and read.
+environmental science, geology or even engineering.
+Student: Which university offers those courses?
+Adviser: I have to check. If you come back next week, I’ll have the answer.
 
+Lesson 3
+🔊 Track 10
+Listen and read.
 Cathy: If you could have any career in the world, what would you choose?
 Maryam: I’d like to be a pilot.
 Cathy: Do you think that dream is ever going to come true?
@@ -3856,64 +3880,89 @@ Cathy: If I were you, I’d train as a doctor and have flying lessons in my free
 Maryam: What free time? Medical students don’t have any free time!
 
 Lesson 6
-🅗 Track 11
+🔊 Track 11
 Listen and complete the captions.
-
 Hello, my name’s Mustafa Ali and I’m a film director. I’m pretty successful and I really enjoy my job. But it wasn’t easy finding the right career. When I was young, I tried quite a few courses and jobs. Somehow, none of them were right for me.
-
 My mother suggested I should train as a pilot. So I went to the flying academy, where I had to take a lot of tests. I failed the eye test and they told me I couldn’t become a pilot.
-
 When I was 18, I started training to be a doctor. Halfway through my course, I realized that I was scared of blood. So I knew it wasn’t the right profession for me.
-
 My father was an engineer. When I gave up medicine, he said I should become an engineer like him. One day, I went with him to see a dam that he was building. It was really high and I suddenly got dizzy. My legs felt weak and I nearly fell off the side of the dam. I realized then that I was scared of heights and I told my father I could never be a successful engineer.
-
 Some months later, I joined the police force. One day, I had to chase a thief, but I couldn’t run fast enough. I just wasn’t fit enough. So I gave up being a policeman.
-
 Later, I got a job as a tour guide. There were tourists from all over the world: Britain, France, Japan, China, Italy. I couldn’t communicate with most of them because I didn’t speak enough languages. So I wasn’t a very good tour guide and my boss asked me to leave.
 
 Lesson 7
-🅗 Track 12
+🔊 Track 12
 Listen and check your answers.
-
 Learn English in the UK at Birchwood International College!
-
 We have colleges in 24 different locations across the country. Choose a busy city, where you can enjoy shopping, eating out and nightlife. Or opt for a village in the English countryside, where you will enjoy beautiful surroundings, lovely walks and a slower pace of life.
-
-All our teachers are qualified and highly experienced. Classes are small, which means that you will be sure of a high level of individual attention. Our courses, which run throughout the year, are tailored to your needs and our friendly staff are always on hand to offer expert advice. Choose from courses of one week to 3 months' duration.
-
+All our teachers are qualified and highly experienced. Classes are small, which means that you will be sure of a high level of individual attention. Our courses, which run throughout the year, are tailored to your needs and our friendly staff are always on hand to offer expert advice. Choose from courses of one week to 3 months’ duration.
 We offer a choice of accommodation to suit your needs. If you choose homestay, you will stay in an English home, which means you will have
 
 
 
 ---------------------- الصفحة 104 -------------------------
 
-نبذة عن الصفحة : 
-الصورة تظهر صفحة من كتاب تعليمي، تحتوي على نصوص متعلقة بتمارين استماع في اللغة الإنجليزية. هناك تعليمات للاستماع إلى مقاطع صوتية والإجابة على الأسئلة المتعلقة بها. الصفحة تتضمن أيضًا نموذج رسالة طلب وظيفة.
-
+نبذة عن الصفحة : تظهر الصورة صفحة من كتاب تعليمي. تحتوي الصفحة على نصوص مقسمة إلى وحدات ودروس، مع وجود تعليمات للاستماع ومطابقة المحادثات. النصوص تتضمن رسائل ونصوص محادثات بين أشخاص، مما يشير إلى أن الكتاب قد يكون جزءًا من مادة لتعليم اللغة الإنجليزية.
 
 النص المُستخرج من الصفحة : 
-the opportunity to experience family life in Britain. You will also be able to practise your English in the evenings. In 12 of our locations, you can choose residential accommodation. We have our own students’ hostels where we can offer comfortable accommodation in single rooms. Breakfast is provided and students can buy other meals in the on-site canteen. Download an application form from www.birchwoodcollege.org.uk, attaching a recent passport photograph and return it to applications@birchwoodcollege.org.uk. Unit 4 Lesson 4 📻 Track 13 Listen and check your answers. Dear Ms Marquez, I saw your job advertisement posted on jobrus.com on 23rd June for Laboratory Technicians and would like to apply. As you will see from my attached CV, I left university a year ago with a degree in Biomedical Science. Since then I have been travelling and volunteering for a vaccination programme with Oxfam in West Africa. I am now keen to find a full-time job in a busy company that will give me opportunities for career development. I am very impressed with Pharmaceutical Engineering’s reputation and I would like to be involved in drug development because I feel it is very valuable work. I have considerable knowledge of using statistical software from my degree course, where I also attended some coding classes. When I was volunteering, we would often work very long hours in the evenings and at weekends. Our group was very effective under pressure. The team leader will be happy to confirm this. Although I do not have any previous experience in a laboratory, I feel I have the personal qualities and skills that you are looking for. I look forward to hearing from you. Yours sincerely, Aya Osman Unit 5 Lesson 2 📻 Track 14 Listen to different people talking. Match. 1 Girl: It took six hours from London to Washington. The food was awful, but the films were OK. I watched two and slept the rest of the time. 2 Boy: Have a look at them. They’re full of colour photos of luxury hotels on the beach and beautiful places to visit in the area. 3 Girl: On the first day there’s a jeep trip to the desert. On the second day there’s a bus trip to a souq. On the third day there’s a trip to the camel races. 4 Boy: The waiters were terrible. They were really slow and one of them spilt soup on my shirt. 5 Girl: There are candles and flowers everywhere and the music is amazing. The people there are always really friendly and cheerful. It’s a place where you always feel good. 6 Boy: There’s plenty to do there – golf, tennis, windsurfing, walks. 7 Girl: What shall I book for next week – a hotel or a self-catering apartment? Lesson 4 📻 Track 15 Listen to the dialogue and fill in the gaps. Katie: Hi, Muna. What are you doing with all those holiday brochures? Muna: Oh, I’m just doing a bit of research on holiday deals in Thailand. Have you ever been there?
+the opportunity to experience family life in Britain. You will also be able to practise your English in the evenings.
+In 12 of our locations, you can choose residential accommodation. We have our own students' hostels where we can offer comfortable accommodation in single rooms. Breakfast is provided and students can buy other meals in the on-site canteen.
+Download an application form from www.birchwoodcollege.org.uk, attaching a recent passport photograph and return it to applications@birchwoodcollege.org.uk.
+
+Unit 4
+Lesson 4
+🎧 Track 13
+Listen and check your answers.
+Dear Ms Marquez,
+I saw your job advertisement posted on jobrus.com on 23<sup>rd</sup> June for Laboratory Technicians and would like to apply.
+As you will see from my attached CV, I left university a year ago with a degree in Biomedical Science. Since then I have been travelling and volunteering for a vaccination programme with Oxfam in West Africa. I am now keen to find a full-time job in a busy company that will give me opportunities for career development. I am very impressed with Pharmaceutical Engineering's reputation and I would like to be involved in drug development because I feel it is very valuable work.
+I have considerable knowledge of using statistical software from my degree course, where I also attended some coding classes. When I was volunteering, we would often work very long hours in the evenings and at weekends. Our group was very effective under pressure. The team leader will be happy to confirm this.
+Although I do not have any previous experience in a laboratory, I feel I have the personal qualities and skills that you are looking for. I look forward to hearing from you. Yours sincerely, Aya Osman
+
+Unit 5
+Lesson 2
+🎧 Track 14
+Listen to different people talking. Match.
+1
+Girl: It took six hours from London to Washington. The food was awful, but the films were OK. I watched two and slept the rest of the time.
+2
+Boy: Have a look at them. They’re full of colour photos of luxury hotels on the beach and beautiful places to visit in the area.
+3
+Girl: On the first day there’s a jeep trip to the desert. On the second day there’s a bus trip to a souq. On the third day there’s a trip to the camel races.
+4
+Boy: The waiters were terrible. They were really slow and one of them spilt soup on my shirt.
+5
+Girl: There are candles and flowers everywhere and the music is amazing. The people there are always really friendly and cheerful. It’s a place where you always feel good.
+6
+Boy: There’s plenty to do there – golf, tennis, windsurfing, walks.
+7
+Girl: What shall I book for next week – a hotel or a self-catering apartment?
+
+Lesson 4
+🎧 Track 15
+Listen to the dialogue and fill in the gaps.
+Katie: Hi, Muna. What are you doing with all those holiday brochures?
+Muna: Oh, I’m just doing a bit of research on holiday deals in Thailand. Have you ever been there?
 
 
 
 ---------------------- الصفحة 105 -------------------------
 
-نبذة عن الصفحة : الصورة تظهر صفحة من كتاب تعليمي تحتوي على نصوص تعليمية للتدريب على فهم المحادثات والبيانات المالية. الصفحة مقسمة إلى قسمين، مع حوار على اليسار وآخر على اليمين، وتحتوي أيضًا على تعليمات للاستماع.
+نبذة عن الصفحة : تظهر الصفحة كصفحة من كتاب دراسي تحتوي على حوارين بين أشخاص. النص موزع على أعمدة، مع وجود خطوط فاصلة بين الأقسام. تظهر عند النهاية بعض التعليمات للطلاب حول الاستماع وتحديد العناصر في كشف الحساب البنكي.
 
 النص المُستخرج من الصفحة : 
 Katie: Yes. We had a family holiday there a couple of years ago.
 Muna: So, which places did you go to?
 Katie: Well, we spent a week in Bangkok to get a flavour of the city life and then two weeks on the beach in Phuket.
-Muna: I'm sure that was beautiful!
+Muna: I’m sure that was beautiful!
 Katie: It was amazing! I really enjoyed it.
 Muna: Well, we all did. There was something for everyone.
-Muna: We're looking for a package deal.
-Katie: That's a good way to do it. At least you know where you're going and what you're doing. And it often works out cheaper in the long run. Have you found one yet?
+Muna: We’re looking for a package deal.
+Katie: That’s a good way to do it. At least you know where you’re going and what you’re doing. And it often works out cheaper in the long run. Have you found one yet?
 Muna: No, but there are two or three that look really good. Which hotel did you stay at in Bangkok?
 Katie: We stayed at the Golden Palace for the first two nights. Then we moved on to the Marriott. The service was excellent in both of them.
 Muna: And what did you think of Thai food?
-Katie: Oh, it's delicious. Haven't you ever tried it?
-Muna: I had green curry once. I really didn't like it.
+Katie: Oh, it’s delicious. Haven’t you ever tried it?
+Muna: I had green curry once. I really didn’t like it.
 Katie: Why not?
 Muna: It nearly burnt a hole in my mouth!
 
@@ -3923,15 +3972,15 @@ Lesson 1
 Listen to two brothers talking. Underline the items on the bank statement that they talk about.
 
 Aziz: Hi, Rami. What are you doing?
-Rami: I'm trying to understand something I got from my bank. I'm not sure what it is.
-Aziz: Let me see. Oh, that's your bank statement. This is a paper that you'll get every month from your bank. It's really important because it shows you how much money went in and came out of your account every month.
-You should look at it carefully and check it to make sure there aren't any mistakes.
+Rami: I’m trying to understand something I got from my bank. I’m not sure what it is.
+Aziz: Let me see. Oh, that’s your bank statement. This is a paper that you’ll get every month from your bank. It’s really important because it shows you how much money went in and came out of your account every month.
+You should look at it carefully and check it to make sure there aren’t any mistakes.
 Rami: Can you help me figure out what it all means?
-Aziz: Sure. Look, to the left of the title "bank statement" is the name of your bank. Then there's information to identify the bank account. Your name is on the left. Your account number, which is an eight-digit number, appears on the top right. That's straightforward, right?
-Rami: Sure, that's easy.
+Aziz: Sure. Look, to the left of the title ‘bank statement’ is the name of your bank. Then there’s information to identify the bank account. Your name is on the left. Your account number, which is an eight-digit number, appears on the top right. That’s straightforward, right?
+Rami: Sure, that’s easy.
 Aziz: A transaction is an activity in your account. So the second column is where the bank says what happened in your account during the month, if you wrote a cheque or deposited money, for example. The date when that transaction happened is on the left.
-Rami: And what does "balance" mean?
-Aziz: The balance is the total that is left in your account after each transaction. The first entry, which says "opening balance", shows the amount that was in your account at the beginning of the month.
+Rami: And what does ‘balance’ mean?
+Aziz: The balance is the total that is left in your account after each transaction. The first entry, which says ‘opening balance’, shows the amount that was in your account at the beginning of the month.
 Rami: And under that it says cheque number 001. That must be a cheque I wrote.
 Aziz: Yes, and further down there are more cheques. See? Numbers 002, 003 and 004. You wrote a lot of cheques last month!
 Rami: Yes. I remember number 001 was to my dentist. The others are on the same day. Those must be the day I went to the mall. I bought some CDs, some clothes and some computer games by cheque that day.
@@ -3939,12 +3988,13 @@ Aziz: Oh, can I see your games?
 Rami: Sure, but can you help me with the rest first?
 Aziz: Yes, well, cash withdrawal means you took money out of your account, probably at an ATM.
 Rami: Yes, I did.
+Transcript 105
 
 
 
 ---------------------- الصفحة 106 -------------------------
 
-نبذة عن الصفحة : الصفحة تحتوي على نصوص تعليمية ضمن سياق تدريسي في مجال اللغة الإنجليزية، تتضمن حوارات بين عملاء وموظفي بنك، مع تعليمات وأمثلة على استخدام البطاقات البنكية والعمليات المصرفية. النصوص تمثل جزءًا من مادة دراسية أو كتاب مدرسي.
+نبذة عن الصفحة : الصورة عبارة عن صفحة من كتاب تعليمي، وهي تحتوي على نصوص تعليمية للغة الإنجليزية. الصفحة مُقسّمة إلى دروس مختلفة مع تعليمات وتمارين للطلاب. تتضمن محادثات بين شخصيات مختلفة حول مواضيع تتعلق بالبنوك والخدمات المالية.
 
 النص المُستخرج من الصفحة : 
 Aziz: And deposits are transactions when you put money into your account.
@@ -3998,7 +4048,7 @@ Banker: Don’t worry. If we cancel your cards now, no one else will be able to 
 
 ---------------------- الصفحة 107 -------------------------
 
-نبذة عن الصفحة : الصورة تظهر صفحة من كتاب تعليمي تحتوي على نصوص محادثات بالإنجليزية، تبدو كجزء من مادة لتعلم اللغة الإنجليزية. تحتوي الصفحة على محادثات متعلقة بمواضيع الحياة اليومية مثل الدفع ببطاقات الائتمان والشراء بالتقسيط.
+نبذة عن الصفحة : الصورة تبدو وكأنها صفحة من كتاب تعليمي أو نص تعليمي، تحتوي على محادثات متعددة بين شخصيات مختلفة، وكل محادثة تتعلق بمواضيع مختلفة مثل استخدام بطاقات الائتمان والقروض. الصفحة مقسمة إلى أجزاء وكل جزء يحتوي على حوار منفصل.
 
 النص المُستخرج من الصفحة : 
 Conversation 2
@@ -4054,20 +4104,20 @@ Nour: Luckily, the loan also includes free car insurance!
 
 ---------------------- الصفحة 108 -------------------------
 
-نبذة عن الصفحة : تظهر هذه الصورة صفحة من كتاب دراسي أو دليل تعليمي. تحتوي على نصوص مكتوبة بالإنجليزية، وتنقسم إلى وحدتين دراسيتين هما "Unit 7" و"Lesson 4". يتضمن النص حوار بين شخصين بالإضافة إلى نص يتحدث عن تجربة شخص في فصل دراسي.
+نبذة عن الصفحة : الصورة تظهر صفحة من كتاب دراسي، بعنوان "English for Libya". تحتوي الصفحة على نصوص لحوار واستماع دراسيين ضمن وحدة دراسية. الصفحة مقسمة إلى قسمين: أحدهما يحتوي على حوار بين شخصيتين، والآخر يحتوي على نص استماع.
 
 النص المُستخرج من الصفحة : 
 Unit 7
 Lesson 2
-Track 21
+🎧 Track 21
 Listen to a conversation between Hasan and his friend, Zaid.
 
 Zaid: Hi, Hasan. I'm meeting Abdulla at 7.00 to watch the football game. Why don’t you come with us?
-Hasan: Hi, Zaid. Thanks. I'd love to, but I'm afraid I can’t. At 7.00 I’ll be sitting in an English class, listening to my teacher!
+Hasan: Hi, Zaid. Thanks. I’d love to, but I’m afraid I can’t. At 7.00 I’ll be sitting in an English class, listening to my teacher!
 Zaid: You’ll be at school? I thought you had a job.
-Hasan: I do. But I'm also studying at a special language school to improve my English. Classes start at 6.00, so people can take them even if they work. It suits me perfectly.
+Hasan: I do. But I’m also studying at a special language school to improve my English. Classes start at 6.00, so people can take them even if they work. It suits me perfectly.
 Zaid: But your English is really good now.
-Hasan: Not good enough. The company I work for needs people whose English is fluent so that they can go on business trips to other countries. I'm going to work on my English a lot this year. I’d really like the opportunity to travel with my job.
+Hasan: Not good enough. The company I work for needs people whose English is fluent so that they can go on business trips to other countries. I’m going to work on my English a lot this year. I’d really like the opportunity to travel with my job.
 Zaid: It must take up a lot of your time.
 Hasan: It does. I spend four hours a week in class, and when I get home I have to do a lot of homework.
 Zaid: I couldn’t do that. When I get home from work I don’t want to do anything. I just want to relax!
@@ -4076,21 +4126,18 @@ Zaid: Are the classes expensive?
 Hasan: Well, yes. They cost 400 Libyan dinars. But the classes are fun. And speaking better English will help me when I’m on holiday in other countries. I’m actually quite enjoying studying again, too!
 
 Lesson 4
-Track 22
+🎧 Track 22
 Listen to Nisrin talking about her summer class. Tick the reasons she liked her class.
 
-Nisrin: I took a class in secretarial skills last summer, and I'm very glad I did. When I finished school in June, I just didn’t know what I wanted to do. I thought I’d study history and become a teacher, but I wanted time to think about it. I decided to get a job, so I enrolled in the class on secretarial skills. I enjoyed it a lot because I learnt so many new things. I knew a little about computers when I started, but in the class I learnt about all sorts of new programs, and I learnt to type much faster. The classes were never boring. Our teacher was great and explained everything very clearly. She was also very kind and sometimes stayed after class if someone had more questions. We usually did!
+Nisrin: I took a class in secretarial skills last summer, and I’m very glad I did. When I finished school in June, I just didn’t know what I wanted to do. I thought I’d study history and become a teacher, but I wanted time to think about it. I decided to get a job, so I enrolled in the class on secretarial skills. I enjoyed it a lot because I learnt so many new things. I knew a little about computers when I started, but in the class I learnt about all sorts of new programs, and I learnt to type much faster. The classes were never boring. Our teacher was great and explained everything very clearly. She was also very kind and sometimes stayed after class if someone had more questions. We usually did!
 
 Another reason I liked the class is that we had very modern equipment, just like the equipment we would be using in our jobs. I liked the other students, too. The class was not too big, so we got to know each other quite well. Everybody was very motivated to learn, and we all helped each other. If one of us was going to be absent, she told the others so that we would make copies of the class notes for her. The best thing about the course is that it helped me find a job very quickly. I use all the skills I learnt on the course. Next, I think I’ll study business. Until then, I have a job as a secretary that I enjoy very much.
-
-108 | Transcript
-English for Libya PB 12_BOOK SCIENCE.indb 108 | 25/06/2020 11:22
 
 
 
 ---------------------- الصفحة 109 -------------------------
 
-نبذة عن الصفحة : تحتوي الصورة على صفحة من كتاب تعليمي للغة الإنجليزية. الصفحة تتضمن نصوصاً تعليمية تتعلق بتجارب تعلم خمس أشخاص. النصوص مرتبة في فقرات مرقمة من 1 إلى 5، وكل فقرة تتحدث عن تجربة شخص مختلف في التعلم والعمل. كما تحتوي الصفحة على بداية درس جديد بعنوان "Lesson 8". في الجزء السفلي، هناك قسم بعنوان "Transcript" مع رقم الصفحة 109 والتاريخ في الأسفل.
+نبذة عن الصفحة : الصفحة تبدو وكأنها جزء من كتاب أو مادة تعليمية تتعلق بتعلم اللغة الإنجليزية. تحتوي على نصوص تتحدث عن تجارب تعليمية لخمسة أشخاص مختلفين. يظهر في الجزء السفلي أيضًا إشارة إلى درس آخر يتعلق بإعادة التدوير.
 
 النص المُستخرج من الصفحة : 
 Lesson 6
@@ -4098,19 +4145,19 @@ Track 23
 Listen to five people talking about their learning experiences.
 
 1
-I work for a large company that buys crafts in many countries throughout the world. Then we sell these products all over Great Britain. I worked as a secretary at the company for many years. I liked my job at first, but then I decided I wanted to have more responsibility. I knew a lot about the company and the products we buy, but I couldn’t get a better job because I couldn’t speak any other languages. Our company does a lot of business with the Middle East, so I decided I was going to learn Arabic. I found a language school that offered Arabic classes in the evening, and I went there twice a week after work. It took a long time, but it was great fun and really interesting, and now I have a more exciting job. I travel to the Middle East once a month and meet the craftsmen. My job is to help decide what products we buy.
+I work for a large company that buys crafts in many countries throughout the world. Then we sell these products all over Great Britain. I worked as a secretary at the company for many years. I liked my job at first, but then I decided I wanted to have more responsibility. I knew a lot about the company and the products we buy, but I couldn't get a better job because I couldn't speak any other languages. Our company does a lot of business with the Middle East, so I decided I was going to learn Arabic. I found a language school that offered Arabic classes in the evening, and I went there twice a week after work. It took a long time, but it was great fun and really interesting, and now I have a more exciting job. I travel to the Middle East once a month and meet the craftsmen. My job is to help decide what products we buy.
 
 2
 I work for a company that makes and sells petroleum products. To make sure that our products are high-quality, we analyze them in our laboratory. When I started at the company, I was a laboratory technician and I helped the scientists by measuring the products and operating the machines. I was a good worker, so my employer said the company would give me on-the-job training. I learnt much more about laboratory procedures, and now I supervise a team of laboratory technicians.
 
 3
-Art was always my favourite class at school, but when I started my job at the bank I stopped drawing and painting. Then one day I had lunch with a friend who is a banker, too. I found out he was going to a painting class that evening. I went with him to see what it was like, and I enjoyed it so much I enrolled immediately. Now I go to my painting class once a week, and I also paint at home at weekends. It’s really relaxing and who knows, I might sell some of them one day!
+Art was always my favourite class at school, but when I started my job at the bank I stopped drawing and painting. Then one day I had lunch with a friend who is a banker, too. I found out he was going to a painting class that evening. I went with him to see what it was like, and I enjoyed it so much I enrolled immediately. Now I go to my painting class once a week, and I also paint at home at weekends. It's really relaxing and who knows, I might sell some of them one day!
 
 4
-When I left school, I had trouble finding a job. My father said I should take a class in web design, but I didn’t really want to. I knew the classes started in the summer, and I wanted to go on holiday with my friends. And I didn’t know a lot about computers. I was more interested in fashion, and I thought the classes would be boring. But in the end, my father convinced me and I enrolled. I learnt a lot and I was surprised how much I enjoyed the class. Now I maintain the website of a famous clothing company and I love my job.
+When I left school, I had trouble finding a job. My father said I should take a class in web design, but I didn't really want to. I knew the classes started in the summer, and I wanted to go on holiday with my friends. And I didn't know a lot about computers. I was more interested in fashion, and I thought the classes would be boring. But in the end, my father convinced me and I enrolled. I learnt a lot and I was surprised how much I enjoyed the class. Now I maintain the website of a famous clothing company and I love my job.
 
 5
-I worked for a removals company for a year. I liked the work, and I was very disappointed to learn the owner would be closing the company in the autumn, so I decided to start my own company. My friends didn’t think it was a good idea. They said I would have to work harder than if I worked for somebody else. And they were right. It was very difficult at the beginning. I had to spend all the money I had saved on office equipment and a removals van. I couldn’t afford to pay many employees, so I did most of the work myself. That meant I couldn’t spend much time with my family and friends. And if there was a problem, it was my responsibility to fix it. I was tired and worried all the time. But it was worth it. My company is doing well now, and I am very proud of my work. I enjoy making all the decisions, and the best thing about running my own company is that I don’t have to do what someone else tells me to do. I choose who I want to work with, too, so I get along with everybody.
+I worked for a removals company for a year. I liked the work, and I was very disappointed to learn the owner would be closing the company in the autumn, so I decided to start my own company. My friends didn't think it was a good idea. They said I would have to work harder than if I worked for somebody else. And they were right. It was very difficult at the beginning. I was tired and worried all the time. But it was worth it. My company is doing well now, and I am very proud of my work. I enjoy making all the decisions, and the best thing about running my own company is that I don't have to do what someone else tells me to do. I choose who I want to work with, too, so I get along with everybody.
 
 Unit 8
 Lesson 2
@@ -4125,7 +4172,7 @@ Transcript | 109
 
 ---------------------- الصفحة 110 -------------------------
 
-نبذة عن الصفحة : تظهر الصورة صفحة من كتاب تعليمي. تحتوي الصفحة على نصوص مقسمة إلى فقرات تتحدث عن وظائف مختلفة تتعلق بالبيئة. تحتوي الصفحة على عناوين فرعية مثل "Park ranger" و "Water quality planner". التصميم بسيط مع هوامش وأرقام صفحات في الأسفل.
+نبذة عن الصفحة : الصورة عبارة عن صفحة من كتاب تعليم اللغة الإنجليزية تتضمن نصوصًا مختلفة. الصفحة تبدو كجزء من مادة تعليمية تحتوي على تفسيرات ودروس حول موضوعات تتعلق بالبيئة وأدوار العمل المختلفة. يوجد في أعلى وأسفل الصفحة تفاصيل تصميمية مثل ألوان وأرقام الصفحات.
 
 النص المُستخرج من الصفحة : paper and plastics. There are also some items (for example, batteries) that cannot normally be recycled. The waste is then placed in different bags, one for food waste, another for glass, another for paper, and so on. These bags are then placed outside the house, where they are collected by the refuse lorry and taken to the waste treatment plant. At the waste treatment plant, all waste is separated into different types. Then it is carefully checked, and any waste which cannot be recycled is removed. The waste is then cleaned in special machines. Finally, it is taken to different factories, where it is treated. Products like glass, plastic and paper can all be used again.
 
@@ -4134,7 +4181,7 @@ Track 25
 Listen and check your answers.
 
 Park ranger
-I’ve been working as a park ranger for five years. I love this job because I love animals. I spend a lot of my working hours outdoors, collecting information about animals - where they are, what they are eating, if they are healthy. I also make sure that people respect the rules for protecting them. I don’t allow hunters in the park, and remind visitors not to leave rubbish that can hurt the wildlife.
+I’ve been working as a park ranger for five years. I love this job because I love animals. I spend a lot of my working hours outdoors, collecting information about animals – where they are, what they are eating, if they are healthy. I also make sure that people respect the rules for protecting them. I don’t allow hunters in the park, and remind visitors not to leave rubbish that can hurt the wildlife.
 
 Health, safety and environment manager
 I work in a petrol refinery. I’m the health, safety and environment manager. Petrol is an important natural resource, but so are the air and water. There are lots of rules that we have to follow to make sure that our refinery doesn’t damage the environment. I also make sure that the people at the refinery work in safe conditions. It’s an important job, and I’m glad that I can help keep people safe.
@@ -4148,7 +4195,7 @@ A water quality planner has an important job, because water is so important in o
 
 ---------------------- الصفحة 111 -------------------------
 
-نبذة عن الصفحة : الصورة تحتوي على صفحة من كتاب تعليمي، تعرض قائمة من الكلمات المفتاحية مع تعريفاتها ونطقها باللغة الإنجليزية. العناوين الرئيسية هي "Key Words" و"Unit 1"، وتظهر الكلمات مع فئاتها النحوية (اسم، فعل، صفة، حال) ومعانيها. الجزء السفلي من الصفحة يحتوي على تفاصيل الطباعة واسم الكتاب وتاريخ الطباعة.
+نبذة عن الصفحة : الصورة عبارة عن صفحة تعليمية تحتوي على قائمة من الكلمات المفتاحية المتعلقة بالرعاية الصحية وبعض المفردات العامة، مع تعريفات لكل منها وكيفية نطقها. الصفحة تحتوي على تصميم بسيط مع نصوص باللغة الإنجليزية، وخلفية بيضاء.
 
 النص المُستخرج من الصفحة : 
 Key Words
@@ -4157,42 +4204,40 @@ Key Words
 Put each word in a sentence of your own, to help you remember it.
 
 Unit 1
-ankle (n) /ˈæŋ(k)əl/ the joint that connects the foot to the leg
+ankle (n) /ˈæŋk(ə)l/ the joint that connects the foot to the leg
 be sick (v) /biː sɪk/ to be ill; to feel unwell
 blood (n) /blʌd/ the red liquid that is pumped around the body by the heart
-blood pressure (n) /blʌd ˈpreʃ(ə)r/ the strength at which blood is pumped around the body
+blood pressure (n) /blʌd ˈpreʃər/ the strength at which blood is pumped around the body
 breathe (v) /briːð/ to take air into the body and let it out again
 campaigns (n) /kæmˈpeɪnz/ organized activities to educate the public about a particular thing
-check-up (n) /ˈtʃɛk ʌp/ a regular visit to a doctor to check general health
-diabetes (n) /ˌdaɪəˈbiːtiːz/ a lifelong condition where the body's blood sugar is too high
-diabetic (adj) /ˌdaɪəˈbɛtɪk/ relating to diabetes
+check-up (n) /ˈʧek ʌp/ a regular visit to a doctor to check general health
+diabetes (n) /ˌdaɪəˈbiːtiz/ a lifelong condition where the body's blood sugar is too high
+diabetic (adj) /ˌdaɪəˈbetɪk/ relating to diabetes
 dizzy (adj) /ˈdɪzi/ feeling that the world is moving around you
 dolphin (n) /ˈdɒlfɪn/ an intelligent and friendly animal that lives in the ocean
 faint (v) /feɪnt/ to suddenly lose consciousness
-first aid (n) /f(ə)rst eɪd/ medical assistance given quickly at the scene of an accident
-fracture (n) /ˈfræktʃər/ a crack in a bone
-furthermore (adv) /ˈfərðərˌmɔː(r)/ in addition to
+first aid (n) /fɜː(r)st eɪd/ medical assistance given quickly at the scene of an accident
+fracture (n) /ˈfrækʧər/ a crack in a bone
+furthermore (adv) /ˈfɜː(r)ðəˌmɔː(r)/ in addition to
 give up (v) /ɡɪv ʌp/ to stop trying
 ice skating (n) /aɪs ˈskeɪtɪŋ/ moving across ice on shoes with metal blades on the bottom
 impolite (adj) /ˌɪmpəˈlaɪt/ rude or insulting
-in plaster /ɪn ˈplæstə/ (e.g., of a broken arm or leg) in a cast
+in plaster /ɪn ˈplɑːstə/ (e.g., of a broken arm or leg) in a cast
 inefficient (adj) /ˌɪnɪˈfɪʃənt/ not practical; slow
-joints (n) /dʒɔɪnts/ part of the body that allows other parts to move
+joints (n) /ʤɔɪnts/ part of the body that allows other parts to move
 lose consciousness (v) /luːz ˈkɒnʃəsnəs/ to become unaware of your surroundings (e.g., when falling asleep)
-paramedics (n) /ˌpærəˈmɛdɪks/ emergency medical staff
-
-Key Words 111
+paramedics (n) /ˌpærəˈmedɪks/ emergency medical staff
 
 
 
 ---------------------- الصفحة 112 -------------------------
 
-نبذة عن الصفحة : الصورة تبدو كصفحة من كتاب تعليمي للغة الإنجليزية، تحتوي على قائمة بالكلمات ومعانيها وكذلك الترجمة الصوتية. يظهر في الجزء السفلي من الصفحة عنوان "Unit 2" مع المزيد من الكلمات والمصطلحات المتعلقة بالوحدة الثانية. التصميم بسيط مع نص في عمودين، وعناصر تصميم في الجزء العلوي والسفلي من الصفحة.
+نبذة عن الصفحة : تظهر الصورة صفحة من كتاب تعليمي باللغة الإنجليزية تتضمن كلمات رئيسية مع تعريفاتها ومقابلها الصوتي. الصفحة تحتوي على قائمة من الكلمات الإنجليزية مع تعريفات مختصرة لكل منها في عمودين. التصميم يحتوي على عنوان في الأسفل "Key Words" مع رقم الصفحة 112.
 
 النص المُستخرج من الصفحة : 
-plenty of /ˈplenti ɒv/ lots of; more than enough of
+plenty of /ˈplenti əv/ lots of; more than enough of
 puzzled (adj) /ˈpʌz(ə)ld/ confused
-regain consciousness (v) /rɪˈgeɪn ˈkɒnʃəsnəs/ to become aware of your surroundings after being unconscious
+regain consciousness (v) /rɪˈɡeɪn ˈkɒnʃəsnəs/ to become aware of your surroundings after being unconscious
 shark (n) /ʃɑː(r)k/ a large, meat-eating fish that lives in the ocean
 shoulder (n) /ˈʃəʊldə(r)/ the joint that connects the arms to the neck
 sneeze (n) /sniːz/ air coming noisily out of the nose and mouth in an uncontrollable way
@@ -4212,20 +4257,18 @@ Unit 2
 arrest (v) /əˈrest/ to take a person to a police station for a crime
 baggage (n) /ˈbæɡɪdʒ/ bags or luggage
 brakes (n) /breɪks/ a device for stopping or slowing a vehicle
-branch (n) /brɑːn(t)ʃ/ a smaller office or store which belongs to a larger company
+branch (n) /brɑːntʃ/ a smaller office or store which belongs to a larger company
 civilian (n) /səˈvɪliən/ any person who is not part of the police or armed forces
 commit a crime (v) /kəˈmɪt ə kraɪm/ to do something illegal, e.g., steal
 crime scene (n) /kraɪm siːn/ the location where a crime took place
 
 112 | Key Words
-English for Libya P8 12_BOOK SCIENCE.indb 112
-25/06/2020 11:22
 
 
 
 ---------------------- الصفحة 113 -------------------------
 
-نبذة عن الصفحة : تظهر الصورة صفحة من كتاب تعليمي، تتضمن قائمة كلمات إنجليزية مع تعريفاتها ونطقها. تبدو الصفحة جزءًا من مادة تعليمية مخصصة لتعلم اللغة الإنجليزية.
+نبذة عن الصفحة : الصورة تبدو كصفحة من كتاب تعليمي تحتوي على قائمة بكلمات إنجليزية مع تعريفاتها وطرق نطقها. هناك أيضًا جدول يحتوي على مربعات لونية في أعلى وأسفل الصفحة، مما يشير إلى أنها قد تكون جزءًا من تصميم مطبوعة أو مادة تعليمية. يظهر في الزاوية السفلية اليسرى نص يشير إلى أن الصفحة تتعلق بتعليم اللغة الإنجليزية في ليبيا.
 
 النص المُستخرج من الصفحة : 
 declare (v) /dɪˈkleə(r)/ to say something clearly or to the public
@@ -4245,19 +4288,20 @@ metal detector (n) /ˈmet(ə)l dɪˈtektə(r)/ a device for finding metal in the
 number plate (n) /ˈnʌmbə(r) pleɪt/ a sign on the front and/or back of a vehicle that shows the vehicle’s number
 occurred (v) /əˈkɜː(r)d/ happened; took place
 officer (n) /ˈɒfɪsə(r)/ a person who works in the police or is high up in the armed forces
-property (n) /ˈprɒpə(r)ti/ the house, gardens, objects, etc., that a person owns
+property (n) /ˈprɒpəti/ the house, gardens, objects, etc., that a person owns
 radar speed gun (n) /ˈreɪdə spid ɡʌn/ a handheld device used for measuring the speed of a vehicle
 robbed (v) /rɒbd/ stole from
-security camera (n) /sɪˈkjʊərɪti ˈkæm(ə)rə/ a camera for protecting an area or building from crime
+security camera (n) /sɪˈkjʊərəti ˈkæm(ə)rə/ a camera for protecting an area or building from crime
 solid (adj) /ˈsɒlɪd/ firm or hard; (n) a substance that is not a liquid or a gas
 
-Key Words 113
+"Key Words" 113
+English for Libya PB 12_BOOK SCIENCE.indd 113 25/06/2020 11:22
 
 
 
 ---------------------- الصفحة 114 -------------------------
 
-نبذة عن الصفحة : الصورة تبدو كصفحة من كتاب تعليمي للغة الإنجليزية، تحتوي على قائمة من الكلمات مع تعريفاتها ونطقها الصوتي. يتضمن التصميم نصًا باللون الأسود على خلفية بيضاء، مع بعض العناوين باللون الأصفر، مما يشير إلى بداية وحدة جديدة أو قسم داخل الكتاب.
+نبذة عن الصفحة : تظهر الصورة صفحة من كتاب تعليمي أو قاموس مخصص لتعليم اللغة الإنجليزية. تتضمن الصفحة كلمات إنجليزية مع تعريفاتها وطريقة نطقها، بالإضافة إلى بعض الأمثلة. تحتوي الصفحة على نص مقسم إلى أعمدة.
 
 النص المُستخرج من الصفحة : 
 supervise (v) /ˈsuːpə(r)vaɪz/ to be in charge; to make sure someone or something is working correctly
@@ -4268,7 +4312,7 @@ Unit 3
 a great experience (n) /ə ɡreɪt ɪksˈpɪəriəns/ an event or activity that has affected you in a positive way
 accommodation (n) /əˌkɒməˈdeɪʃ(ə)n/ a place you stay in, for example, a hotel, university rooms, etc.
 advice (n) /ədˈvaɪs/ an opinion or suggestion given to someone with a problem
-allergies (n) /ˈælədʒiz/ a medical condition which means you react badly to something, for example to sneeze or itch when near flowers
+allergies (n) /ˈælədʒɪz/ a medical condition which means you react badly to something, for example to sneeze or itch when near flowers
 annoyed with /əˈnɔɪd wɪð/ to be a little angry with someone or something
 annual (adj) /ˈænjuəl/ happening once every year
 application (n) /ˌæplɪˈkeɪʃ(ə)n/ an official form you complete to apply for, e.g., a job, a university course
@@ -4280,58 +4324,56 @@ details (n) /ˈdiːteɪlz/ the finer, smaller points of an object or item
 dietary (adj) /ˈdaɪət(ə)ri/ relating to the diet, the food and drink a person consumes
 disappear (v) /ˌdɪsəˈpɪə(r)/ to vanish or go away
 disconnect (v) /ˌdɪskəˈnekt/ to separate or remove something from something else
-discourage (v) /dɪˈskʌrɪdʒ/ to make someone not want to do something
+discourage (v) /dɪsˈkʌrɪdʒ/ to make someone not want to do something
 dislike (v) /dɪsˈlaɪk/ to not like a person or thing
 disobey (v) /ˌdɪsəˈbeɪ/ to ignore the rules
 
 114 | Key Words
-English for Libya PB 12_BOOK SCIENCE.indb 114 25/06/2020 11:22
 
 
 
 ---------------------- الصفحة 115 -------------------------
 
-نبذة عن الصفحة : تظهر الصورة صفحة من كتاب تعليمي تعرض قائمة من الكلمات مع تعريفاتها وطرق نطقها. يبدو أن الصفحة تتعلق بتعلم اللغة الإنجليزية وتحتوي على كلمات محددة مع توضيحاتها ومعانيها. في الجانب العلوي من الصفحة، توجد شريط ألوان، وعلى الأسفل توجد أرقام الصفحة والتاريخ.
+نبذة عن الصفحة : تظهر الصورة صفحة من كتاب تعليمي تحتوي على قائمة بالكلمات المفتاحية مع تعريفاتها ونطقها. كل كلمة تحتوي على نوع الكلمة (فعل، اسم، صفة) والنطق والمعنى. يبدو أن هذه الصفحة جزء من مادة تعليمية تهدف إلى تعزيز المفردات باللغة الإنجليزية.
 
 النص المُستخرج من الصفحة : 
 distrust (v) /dɪsˈtrʌst/ to feel you cannot rely on a person or thing
 duty (n) /ˈdjuːti/ responsibility
-engineering (n) /ˌɛndʒɪˈnɪərɪŋ/ a subject that studies the design and production of machines, roads, etc.
-film director (n) /fɪlm dɪˈrɛktə(r)/ someone responsible for the design and production of a film
+engineering (n) /ˌendʒɪˈnɪərɪŋ/ a subject that studies the design and production of machines, roads, etc.
+film director (n) /fɪlm dɪˈrektə(r)/ someone responsible for the design and production of a film
 fine art (n) /faɪn ɑː(r)t/ works of art such as paintings, sculptures, etc., that are beautiful
 fit (v) /fɪt/ to be the right size or shape for; to belong
-geology (n) /dʒɪˈɒlədʒi/ the study of the Earth and its origins
+geology (n) /dʒiˈɒlədʒi/ the study of the Earth and its origins
 hostel (n) /ˈhɒst(ə)l/ cheaper hotel accommodation
 involve (v) /ɪnˈvɒlv/ to include
-level (n) /ˈlɛv(ə)l/ a position or rank
+level (n) /ˈlev(ə)l/ a position or rank
 locations (n) /ləʊˈkeɪʃ(ə)nz/ places
-opt for (v) /ɒpt fɔː/ to choose
-permit (v) /pəˈmɪt/ to allow
+opt for (v) /ˈɒpt fə(r)/ to choose
+permit (v) /pə(r)ˈmɪt/ to allow
 qualifications (n) /ˌkwɒlɪfɪˈkeɪʃ(ə)nz/ certificates gained when you pass a course
-rescue (v) /ˈrɛskjuː/ to save
-scary (adj) /ˈskɛəri/ frightening
+rescue (v) /ˈreskjuː/ to save
+scary (adj) /ˈskeəri/ frightening
 scientific research (n) /ˌsaɪəntɪfɪk rɪˈsɜː(r)tʃ/ a careful investigation of a subject
 solo (adj) /ˈsəʊləʊ/ alone
-stressful (adj) /ˈstrɛsf(ə)l/ causing worry
+stressful (adj) /ˈstresf(ə)l/ causing worry
 suit (v) /suːt/ to be useful for somebody
 the aviation industry (n) /ði ˌeɪviˈeɪʃ(ə)n ˈɪndəstri/ the business sector relating to aircraft
 the environment (n) /ði ɪnˈvaɪrənmənt/ the natural world
 the media (n) /ðə ˈmiːdiə/ the ways that people communicate and receive information, e.g., television
 title (n) /ˈtaɪt(ə)l/ a name
-train as (v) /treɪn æz/ to learn the skills to become, e.g., a nurse, teacher, etc.
+train as (v) /treɪn əz/ to learn the skills to become, e.g., a nurse, teacher, etc.
 trip over (v) /trɪp ˈəʊvə(r)/ to fall over something, e.g., a rug or small dog
-upset (adj) /ʌpˈsɛt/ unhappy or disappointed
-well paid (adj) /ˈwel peɪd/ earning a lot of money
+upset (adj) /ʌpˈset/ unhappy or disappointed
+well paid (adj) /wel peɪd/ earning a lot of money
 
 
 
 ---------------------- الصفحة 116 -------------------------
 
-نبذة عن الصفحة : تظهر الصورة صفحة من كتاب تعليمي تحتوي على قائمة بكلمات رئيسية مع تعريفاتها ونطقها الصوتي. تتضمن الكلمات صفات وأسماء وأفعال، وكل منها مُعرَّف في السياق المهني أو الشخصي.
+نبذة عن الصفحة : الصورة تحتوي على صفحة من كتاب تعليمي تُظهر قائمة مفردات من الوحدة الرابعة. النص موزع في جدول بثلاثة أعمدة: الكلمة، النطق، والمعنى. التصميم بسيط ومنظم بشكل جيد مع وجود ألوان وإشارات شكلية في الأعلى والأسفل لتحديد الصفحة.
 
 النص المُستخرج من الصفحة : 
 Unit 4
-
 a good record (n) /ə ɡʊd ˈrekɔːd/ a reputation for being good at something over time
 
 ambitious (adj) /æmˈbɪʃəs/ wanting to succeed and do very well (e.g., in a career)
@@ -4352,9 +4394,9 @@ equivalent (adj) /ɪˈkwɪvələnt/ equal to
 
 motivate (v) /ˈməʊtɪveɪt/ to encourage achievement
 
-personality (n) /ˌpɜː(r)səˈnæləti/ the parts of a person’s character that make them an individual
+personality (n) /ˌpɜː(r)səˈnæləti/ the parts of a person's character that make them an individual
 
-profession (n) /prəˈfeʃən/ a skilled job
+profession (n) /prəˈfeʃ(ə)n/ a skilled job
 
 punctual (adj) /ˈpʌŋktʃuəl/ always on time
 
@@ -4366,25 +4408,21 @@ surgeon (n) /ˈsɜː(r)dʒ(ə)n/ a doctor who does operations
 
 vacancy (n) /ˈveɪkənsi/ an available job or position
 
-116 | Key Words
-
-English for Libya P8 12_BOOK SCIENCE.indb 116 25/06/2020 11:22
-
 
 
 ---------------------- الصفحة 117 -------------------------
 
-نبذة عن الصفحة : تظهر الصورة صفحة من كتاب تعليمي باللغة الإنجليزية، تحتوي على قائمة من الكلمات والمصطلحات مع تعريفات ونطقها الصوتي. يظهر في أعلى الصفحة شريط من الألوان قد يكون جزءًا من تصميم الطباعة.
+نبذة عن الصفحة : الصورة عبارة عن صفحة من كتاب تعليمي تحتوي على قائمة من الكلمات ومعانيها. تتضمن الصفحة قسم "Unit 5" ويوجد بها جدول يحتوي على الكلمات، تصنيفاتها، النطق، والمعاني. الصفحة مزينة بعناصر بصرية مثل خطوط وألوان في الأعلى والأسفل، ويظهر في أسفل الصفحة رقم الصفحة وتاريخ.
 
 النص المُستخرج من الصفحة : 
 Unit 5
 achieve (v) /əˈtʃiːv/ to complete a task successfully or make something happen
-anything to declare /ˈeniθɪŋ tuː dɪˈkleə(r)/ an expression meaning to state at customs that you are bringing items into one country that you bought in another country
+anything to declare /ˈenɪθɪŋ tuː dɪˈkleə(r)/ an expression meaning to state at customs that you are bringing items into one country that you bought in another country
 atmosphere (n) /ˈætməsfɪə(r)/ the general feeling of a place or between people
 board (v) /bɔː(r)d/ to get into a vehicle (e.g., a plane or train)
 boarding card (n) /ˈbɔːdɪŋ kɑː(r)d/ the document you need to produce before you can board a vehicle
 brochure (n) /ˈbrəʊʃə(r)/ a document that gives information and photos about a place or object
-car hire (n) /kɑː(r) ˈhaɪə(r)/ to borrow a car for a period of time for a small fee
+car hire (n) /kaː(r) ˈhaɪə(r)/ to borrow a car for a period of time for a small fee
 cheat (v) /tʃiːt/ to lie or trick someone
 compound (n) /ˈkɒmpaʊnd/ words combined to create a new word
 considerably (adv) /kənˈsɪdərəbli/ in a significant way
@@ -4403,17 +4441,13 @@ luxurious (adj) /lʌɡˈʒʊəriəs/ very comfortable and expensively decorated
 mint (n) /mɪnt/ a sweet herb used to flavour, e.g., toothpaste and tea
 nervous (adj) /ˈnɜː(r)vəs/ worried or anxious
 operate (v) /ˈɒpəreɪt/ to work or be used
-
 Key Words 117
-
-English for Libya PB 12_BOOK SCIENCE.indd 117
-25/06/2020 11:22
 
 
 
 ---------------------- الصفحة 118 -------------------------
 
-نبذة عن الصفحة : تظهر الصورة صفحة من كتاب تعليمي، تعرض قائمة من الكلمات المفتاحية مع تعريفاتها والنطق الخاص بها. تحتوي الصفحة على عنوان "Key Words" في الأسفل ورقم الصفحة 118. التصميم يتضمن عمودين، أحدهما للكلمات والنطق، والآخر للتعريفات. النصوص منظمة بشكل متسلسل مع خطوط فاصلة بين كل كلمة وتعريفها. هناك أيضًا بعض الرموز في الزاوية العلوية.
+نبذة عن الصفحة : الصورة تبدو كصفحة من كتاب تعليمي أو قاموس، تحتوي على كلمات إنجليزية مع تعريفاتها وطرق نطقها. الصفحة تبدو منظمة في شكل جدول أو قائمة، حيث توجد الكلمات على الجانب الأيسر وتعريفاتها على الجانب الأيمن. يوجد إطار تحكم في الأعلى والأسفل يعرض أرقام الصفحات واسم الكتاب.
 
 النص المُستخرج من الصفحة : 
 package deal (n) /ˈpækɪdʒ diːl/ a holiday in which all items (e.g., accommodation and food) are included in the price
@@ -4424,7 +4458,7 @@ relationships (n) /rɪˈleɪʃ(ə)nʃɪps/ the ways in which people and groups i
 research (n) /rɪˈsɜː(r)tʃ/ investigation into a certain topic
 routine (n) /ruːˈtiːn/ sequence of actions, usually to be done repeatedly (e.g., morning routine, dance routine, etc.)
 seafront (n) /ˈsiːˌfrʌnt/ the part of a town facing the sea
-self-catering apartment (n) /self ˈkeɪtərɪŋ əˈpɑː(r)tmənt/ holiday accommodation where you cook your own meals
+self-catering apartment (n) /self ˈkeɪt(ə)rɪŋ əˈpɑː(r)tmənt/ holiday accommodation where you cook your own meals
 self-service (adj) /self ˈsɜː(r)vɪs/ without help from a waiter or shop assistant (e.g., buffet, drinks machine, etc.)
 sightseeing (n) /ˈsaɪtˌsiːɪŋ/ the activity of visiting interesting places, buildings, monuments, etc.
 ski resort (n) /skiː rɪˈzɔː(r)t/ a place where people go on holiday to ski
@@ -4443,39 +4477,39 @@ variety (n) /vəˈraɪəti/ many different types of the same thing
 
 ---------------------- الصفحة 119 -------------------------
 
-نبذة عن الصفحة : الصورة تحتوي على صفحة من كتاب دراسي تتضمن قائمة بكلمات رئيسية تتعلق بالعمليات المصرفية، مع التعريفات والنطق لكل كلمة. يظهر على الصفحة تصميم بسيط مع عناوين واضحة.
+نبذة عن الصفحة : تظهر الصورة صفحة من كتاب تعليمي تحتوي على قائمة من الكلمات مع تعريفات قصيرة لكل منها. الصفحة تحتوي على عنوان "Unit 6" وتحتوي على كلمات متعلقة بالمصطلحات البنكية والمالية. يوجد على الجانب الأيسر من الصفحة قائمة بالكلمات مع نطق كل كلمة بجانبها، وعلى الجانب الأيمن توجد تعريفات لهذه الكلمات. في الجزء السفلي الأيمن، توجد عبارة "Key Words" مع الرقم 119، مما يشير إلى رقم الصفحة في الكتاب.
 
 النص المُستخرج من الصفحة : 
-Unit 6  
-account (n) /əˈkaʊnt/ an arrangement with a bank to look after your money  
-advise (v) /ədˈvaɪz/ to give help in the form of information or recommendations  
-approve (v) /əˈpruːv/ to express a positive opinion  
-ATM (n) /ˌeɪ tiː ˈem/ a machine that allows you to take out your money from the bank (abbreviation of Automated Teller Machine)  
-attract (customers) (v) /əˈtrækt/ to bring people towards; to encourage interest in  
-balance (n) /ˈbælans/ the amount of money in a bank account  
-bank card (n) /bæŋk kaː(r)d/ a card used to take money out of an account  
-bank online (v) /bæŋk ˈɒnˌlaɪn/ to control accounts through a bank’s website  
-bank statement (n) /bæŋk ˈsteɪtmənt/ a report of the money that goes into and out of an account  
-bill (pay a ~) (n) /bɪl/ a demand for money that is owed (e.g., for electricity, water, etc.)  
-branch (bank ~) (n) /brɑːntʃ/ an individual shop or office of a large company  
-cancel (v) /ˈkæns(ə)l/ to stop; to close or bring an end to  
-cash (n) /kæʃ/ money in the form of coins and banknotes  
-charge (~ a fee) (v) /tʃɑː(r)dʒ/ to ask for money for a service  
-cheque (n) /tʃek/ a form of paying money through a signed instruction on paper  
-cheque book (n) /ˈtʃekˌbʊk/ a collection of pre-printed cheques  
-convince (v) /kənˈvɪns/ to argue a point successfully  
-credit card (n) /ˈkredɪt kaː(r)d/ a form of bank card which allows you to borrow money from the bank  
-credit limit (n) /ˈkredɪt ˈlɪmɪt/ the most money you can borrow in one month  
-currency (n) /ˈkʌrənsi/ different types of money in different countries  
-current (account) (n) /ˈkʌrənt/ a bank account often used for everyday things  
-deposit (n, v) /dɪˈpɒzɪt/ (n) money paid into an account; (v) to pay money into an account  
-disappoint (v) /ˌdɪsəˈpɔɪnt/ to fall below expectations  
+Unit 6
+account (n) /əˈkaʊnt/ an arrangement with a bank to look after your money
+advise (v) /ədˈvaɪz/ to give help in the form of information or recommendations
+approve (v) /əˈpruːv/ to express a positive opinion
+ATM (n) /ˌeɪ t̬iː ˈem/ a machine that allows you to take out your money from the bank (abbreviation of Automated Teller Machine)
+attract (customers) (v) /əˈtrækt/ to bring people towards; to encourage interest in
+balance (n) /ˈbæl.əns/ the amount of money in a bank account
+bank card (n) /bæŋk kaː(r)d/ a card used to take money out of an account
+bank online (v) /bæŋk ˈɒnˌlaɪn/ to control accounts through a bank’s website
+bank statement (n) /bæŋk ˈsteɪtmənt/ a report of the money that goes into and out of an account
+bill (pay a ~) (n) /bɪl/ a demand for money that is owed (e.g., for electricity, water, etc.)
+branch (bank ~) (n) /brɑːntʃ/ an individual shop or office of a large company
+cancel (v) /ˈkæns(ə)l/ to stop; to close or bring an end to
+cash (n) /kæʃ/ money in the form of coins and banknotes
+charge (~ a fee) (v) /ʧɑː(r)ʤ/ to ask for money for a service
+cheque (n) /ʧek/ a form of paying money through a signed instruction on paper
+cheque book (n) /ˈʧek bʊk/ a collection of pre-printed cheques
+convince (v) /kənˈvɪns/ to argue a point successfully
+credit card (n) /ˈkredɪt kaː(r)d/ a form of bank card which allows you to borrow money from the bank
+credit limit (n) /ˈkredɪt ˈlɪmɪt/ the most money you can borrow in one month
+currency (n) /ˈkʌrənsi/ different types of money in different countries
+current (account) (n) /ˈkʌrənt/ a bank account often used for everyday things
+deposit (n, v) /dɪˈpɒzɪt/ (n) money paid into an account; (v) to pay money into an account
+disappoint (v) /ˌdɪsəˈpɔɪnt/ to fall below expectations
 
 
 
 ---------------------- الصفحة 120 -------------------------
 
-نبذة عن الصفحة : تظهر الصورة صفحة من كتاب تعليمي أو قاموس، تحتوي على قائمة من الكلمات الإنجليزية المتعلقة بالمال والشؤون المالية. بجانب كل كلمة يوجد النطق باستخدام الرموز الصوتية بالإضافة إلى تعريفات قصيرة لكل منها. التصميم بسيط ويحتوي على نصوص منظمة في أعمدة.
+نبذة عن الصفحة : الصورة تحتوي على صفحة من كتاب تعليمي تحتوي على قائمة بكلمات مفتاحية مع تعريفاتها وطرق نطقها. النصوص مرتبة في جدول يضم الكلمة ونطقها وتعريفها. يظهر في أعلى وأسفل الصفحة شريط رمادي قد يكون للإشارة إلى تصميم الكتاب أو دليل للألوان. الصفحة مرقمة بـ 120 وموسومة بعنوان "Key Words".
 
 النص المُستخرج من الصفحة : 
 exchange rate (n) /ɪksˈʧeɪnʤ reɪt/ the measure of how much an amount in one currency is compared to another
@@ -4491,9 +4525,9 @@ knowledgeable (adj) /ˈnɒlɪʤəbl/ having a lot of knowledge
 loan (n) /ləʊn/ money that is lent with the agreement that it will be paid back
 misspelt (n) /ˈmɪsˈspɛlt/ spelt incorrectly
 open (an account) (v) /ˈəʊpən/ to start a new agreement
-overdraft facilities (n) /ˈəʊvədrɑːft fəˈsɪlɪtiz/ the amounts of money that you can spend more than the amount that is in your account
-owner (n) /ˈəʊnə/ person who owns a particular thing
-password (n) /ˈpɑːswɜːd/ a secret combination of letters and numbers that allows you to control your money securely
+overdraft facilities (n) /ˈəʊvəˌdrɑːft fəˈsɪlɪtiz/ the amounts of money that you can spend more than the amount that is in your account
+owner (n) /ˈəʊnər/ person who owns a particular thing
+password (n) /ˈpɑːsˌwɜːd/ a secret combination of letters and numbers that allows you to control your money securely
 pay (fees) (v) /peɪ/ to give money that you owe
 pay back (v) /peɪ bæk/ to return money to the person you borrowed it from
 PIN (n) /pɪn/ a password in figures that allows you to pay for something with your bankcard (abbreviation of Personal Identification Number)
@@ -4505,11 +4539,11 @@ tip (v) /tɪp/ to give a person a small amount of extra money for a service they
 
 ---------------------- الصفحة 121 -------------------------
 
-نبذة عن الصفحة : تظهر الصورة صفحة من كتاب تعليمي للغة الإنجليزية، تحتوي على كلمات ومفردات مع تعريفاتها وطريقة نطقها، مرتبة في جدول. تحتوي الصفحة على قسم بعنوان "Unit 7" وتحتوي على مجموعة من الكلمات مثل "transaction" و"chat" وغيرها، مع تعريفات قصيرة لكل منها. التصميم بسيط مع استخدام ألوان محايدة في الهوامش.
+نبذة عن الصفحة : تظهر الصورة صفحة من كتاب تعليمي تحتوي على قائمة بكلمات ومفردات باللغة الإنجليزية مع تعريفاتها ونطقها. يوجد في الجزء العلوي من الصفحة شريط يحتوي على ألوان مختلفة، مما يشير إلى أنها ربما تكون جزءًا من تصميم الكتاب للطباعة. في الجزء السفلي، هناك عنوان فرعي "Key Words" ورقم الصفحة "121".
 
 النص المُستخرج من الصفحة : 
 transaction (n) /trænˈzækʃ(ə)n/ when money is paid from one person or company to another
-traveller's cheques (n) /ˈtræv(ə)ləz ʧeks/ a safe way of travelling without cash to countries with different currencies
+traveller’s cheques (n) /ˈtræv(ə)ləz ʧeks/ a safe way of travelling without cash to countries with different currencies
 valid (adj) /ˈvælɪd/ accepted as official and legal
 value (n) /ˈvæljuː/ how much a thing is worth or equal to in money
 withdrawal (n) /wɪðˈdrɔːəl/ money taken out of a bank or ATM
@@ -4519,7 +4553,7 @@ admit (on a course) (v) /ədˈmɪt/ to let in, accept
 charity (n) /ˈʧærɪti/ an organization that helps people or animals in need
 chat (v) /ʧæt/ to talk informally
 conference (n) /ˈkɒnf(ə)rəns/ a large, formal meeting
-connection (internet ->) (n) /kəˈnɛkʃ(ə)n/ a link to the internet from, e.g., a computer or tablet
+connection (internet ->) (n) /kəˈnekʃ(ə)n/ a link to the internet from, e.g., a computer or tablet
 convenient (adj) /kənˈviːniənt/ easy and quick
 crafts (n) /krɑːfts/ skilfully handmade objects, e.g., pottery, jewellery, etc.
 efficient (adj) /ɪˈfɪʃ(ə)nt/ capable; doing something well without wasting energy or money
@@ -4527,24 +4561,21 @@ enhance (v) /ɪnˈhɑːns/ to improve
 enrol (v) /ɪnˈrəʊl/ to officially join a school or course
 graphic design (n) /ˈɡræfɪk dɪˈzaɪn/ the subject or skill of creating visual art using photographs, letter art, etc.
 intensive (adj) /ɪnˈtensɪv/ involving a lot of work
-job prospect (n) /ʤɒb ˈprɒspɛkt/ the possibility of getting a good job
+job prospect (n) /ʤɒb ˈprɒspekt/ the possibility of getting a good job
 librarian (n) /laɪˈbreərɪən/ a person who works in a library
-management (n) /ˈmænɪʤmənt/ the act of running a business or organization
+management (n) /ˈmænɪdʒmənt/ the act of running a business or organization
 medical (adj) /ˈmedɪk(ə)l/ related to illness and other health issues
-register (for a course) (v) /ˈreʤɪstə(r)/ to sign up
+register (for a course) (v) /ˈredʒɪstə(r)/ to sign up
 responsibility (n) /rɪˌspɒnsəˈbɪlɪti/ a duty to deal with something or someone
-self-disciplined (adj) /ˌself ˈdɪsɪplɪnd/ being able to make yourself do something
+self-disciplined (adj) /self ˈdɪsɪplɪnd/ being able to make yourself do something
 shift (work ->) (n) /ʃɪft/ a period of time worked
 spreadsheet (n) /ˈspredˌʃiːt/ a digital document used to record data
-
-Key Words 121
-25/06/2020 11:22
 
 
 
 ---------------------- الصفحة 122 -------------------------
 
-نبذة عن الصفحة : تظهر الصورة صفحة من كتاب تعليمي تحتوي على قائمة من الكلمات المفتاحية مع تعريفاتها. الجزء العلوي من الصفحة يحتوي على رموز لونية قد تشير إلى إعدادات الطباعة. النص موجه لتعليم اللغة الإنجليزية ويحتوي على كلمات متنوعة مع كيفية نطقها وتعريف مختصر لكل منها.
+نبذة عن الصفحة : تظهر الصورة صفحة من كتاب تعليمي تحتوي على قائمة كلمات مع تعريفاتها واستخداماتها في اللغة الإنجليزية. الصفحة تحتوي على عنوان "Unit 8" وتظهر الكلمات مع طريقة نطقها والتعريفات المرافقة لها. هناك تصميم مرئي في الأعلى يشير إلى دليل لوني.
 
 النص المُستخرج من الصفحة : 
 support (v) /səˈpɔː(r)t/ to help or encourage
@@ -4559,18 +4590,18 @@ landfill (n) /ˈlæn(d)ˌfɪl/ a place where rubbish is dumped to be buried late
 limit (v) /ˈlɪmɪt/ to reduce the amount of something
 renewable (adj) /rɪˈnjuːəb(ə)l/ (of energy or natural resources) able to be replaced naturally by the Earth (e.g., solar, wind, etc.)
 replace (v) /rɪˈpleɪs/ to put something back
-separate (v) /ˈsepəreɪt/ to divide into different groups or parts
+separate (v) /ˈsep(ə)reɪt/ to divide into different groups or parts
 wisely (adv) /ˈwaɪzli/ in a way that shows you have good experience and judgement
 
 122 | Key Words
-English for Libya P8 12_BOOK SCIENCE.indb 122
-25/06/2020 11:22
+
+English for Libya P8 12_BOOK SCIENCE.indb 122 25/06/2020 11:22
 
 
 
 ---------------------- الصفحة 123 -------------------------
 
-نبذة عن الصفحة : تظهر الصورة صفحة من كتاب تعليمي تتضمن رموزًا صوتية. الصفحة مقسمة إلى ثلاثة جداول رئيسية تحتوي على رموز الفونيمات الخاصة بالأصوات في اللغة الإنجليزية. يحتوي كل جدول على عناوين مثل "Vowels", "Diphthongs", و"Consonants". يظهر أسفل الصفحة معلومات عن حقوق الطبع والنشر وتاريخ الطباعة.
+نبذة عن الصفحة : تظهر الصورة جدولًا يحتوي على الرموز الصوتية المستخدمة في اللغة الإنجليزية. ينقسم الجدول إلى ثلاثة أقسام: الحروف المتحركة (Vowels)، الحروف المزدوجة (Diphthongs)، والحروف الساكنة (Consonants). كل قسم يحتوي على رموز صوتية مع أمثلة للكلمات الإنجليزية المقابلة لها. يظهر في أعلى الصفحة عنوان "Phonetic Symbols".
 
 النص المُستخرج من الصفحة : 
 Phonetic Symbols
@@ -4626,15 +4657,18 @@ w window
 j yes
 
 English for Libya PB 12_BOOK SCIENCE.indb 123
-25/06/2020 11:22
 Phonetic Symbols 123
+25/06/2020 11:22
 
 
 
 ---------------------- الصفحة 124 -------------------------
 
-نبذة عن الصفحة : الصورة تبدو كصفحة فارغة من كتاب أو مستند يحتوي على شريط لوني في الجزء العلوي والجانب الأيسر، مما يشير إلى أنها ربما تكون من مستند مُعد للطباعة. قد يكون هذا جزءًا من دليل أو كتاب تعليمي. تحتوي الصورة على علامات طباعة مثل الألوان والرموز الصغيرة في الزوايا.
+نبذة عن الصفحة : تبدو الصورة كصفحة فارغة من كتاب أو وثيقة، مع وجود مربعات ألوان في الأعلى والجانب الأيسر، والتي غالباً ما تكون جزءًا من إعدادات الطباعة أو دليل الألوان. هناك بعض النصوص الصغيرة في الأسفل.
 
-النص المُستخرج من الصفحة : English for Libya P8 12_BOOK SCIENCE.indb 124 25/06/2020 11:22
+النص المُستخرج من الصفحة : 
+English for Libya P8 12_BOOK SCIENCE.indb 124
+25/06/2020 11:22
+
 
 
